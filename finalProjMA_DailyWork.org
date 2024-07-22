@@ -2029,8 +2029,10 @@ ValueError: Could not open '~/home/ashleysagar/model.tflite'.
 
 ** 2024-07-22 - Monday
 :LOGBOOK:
-CLOCK: [2024-07-22 Mon 08:51]
+CLOCK: [2024-07-22 Mon 08:55]
 :END:
+
+
 
 
 
