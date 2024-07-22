@@ -4,51 +4,53 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-#+CAPTION: Clock summary at [2024-07-22 Mon 09:35]
-| Headline                   | Time      |      |
-|----------------------------+-----------+------|
-| *Total time*               | *5d 8:40* |      |
-|----------------------------+-----------+------|
-| Daily Work                 | 5d 8:40   |      |
-| \_  2024-05-16 - Thursday  |           | 3:52 |
-| \_  2024-05-17 - Friday    |           | 6:31 |
-| \_  2024-05-21 - Tuesday   |           | 4:01 |
-| \_  2024-05-23 - Thursday  |           | 3:21 |
-| \_  2024-05-27 - Monday    |           | 2:00 |
-| \_  2024-05-30 - May       |           | 1:30 |
-| \_  2024-06-01 - Saturday  |           | 1:10 |
-| \_  2024-06-03 - Monday    |           | 1:15 |
-| \_  2024-06-05 - Wednesday |           | 1:07 |
-| \_  2024-06-04 - Tuesday   |           | 0:20 |
-| \_  2024-06-07 - Friday    |           | 4:18 |
-| \_  2024-06-09 - Sunday    |           | 0:48 |
-| \_  2024-06-10 - Monday    |           | 5:20 |
-| \_  2024-06-11 - Tuesday   |           | 4:59 |
-| \_  2024-06-12 - Wednesday |           | 5:20 |
-| \_  2024-06-13 - Thursday  |           | 2:50 |
-| \_  2024-06-13 - Friday    |           | 7:47 |
-| \_  2024-06-23 - Sunday    |           | 3:14 |
-| \_  2024-06-24 - Monday    |           | 1:47 |
-| \_  2024-06-27 - Thursday  |           | 0:55 |
-| \_  2024-06-29 - Saturday  |           | 2:09 |
-| \_  2024-06-30 - Sunday    |           | 2:42 |
-| \_  2024-07-01 - Monday    |           | 3:15 |
-| \_  2024-07-02 - Tuesday   |           | 5:11 |
-| \_  2024-07-05 - Friday    |           | 0:28 |
-| \_  2024-07-07 - Sunday    |           | 0:01 |
-| \_  2024-07-09 - Tuesday   |           | 3:43 |
 | \_  2024-07-10 - Wednesday |           | 2:59 |
-| \_  2024-07-11 - Thursday  |           | 5:18 |
-| \_  2024-07-12 - Friday    |           | 4:15 |
-| \_  2024-07-13 - Saturday  |           | 5:31 |
-| \_  2024-07-14 - Sunday    |           | 2:17 |
-| \_  2024-07-15 - Monday    |           | 1:50 |
-| \_  2024-07-16 - Tuesday   |           | 5:14 |
-| \_  2024-07-17 - Wednesday |           | 5:48 |
-| \_  2024-07-18 - Thursday  |           | 6:45 |
-| \_  2024-07-19 - Friday    |           | 6:53 |
-| \_  2024-07-20 - Saturday  |           | 1:00 |
-| \_  2024-07-21 - Sunday    |           | 0:56 |
+#+CAPTION: Clock summary at [2024-07-22 Mon 17:53]
+| Headline                   | Time       |      |
+|----------------------------+------------+------|
+| *Total time*               | *5d 16:43* |      |
+|----------------------------+------------+------|
+| Daily Work                 | 5d 16:43   |      |
+| \_  2024-05-16 - Thursday  |            | 3:52 |
+| \_  2024-05-17 - Friday    |            | 6:31 |
+| \_  2024-05-21 - Tuesday   |            | 4:01 |
+| \_  2024-05-23 - Thursday  |            | 3:21 |
+| \_  2024-05-27 - Monday    |            | 2:00 |
+| \_  2024-05-30 - May       |            | 1:30 |
+| \_  2024-06-01 - Saturday  |            | 1:10 |
+| \_  2024-06-03 - Monday    |            | 1:15 |
+| \_  2024-06-05 - Wednesday |            | 1:07 |
+| \_  2024-06-04 - Tuesday   |            | 0:20 |
+| \_  2024-06-07 - Friday    |            | 4:18 |
+| \_  2024-06-09 - Sunday    |            | 0:48 |
+| \_  2024-06-10 - Monday    |            | 5:20 |
+| \_  2024-06-11 - Tuesday   |            | 4:59 |
+| \_  2024-06-12 - Wednesday |            | 5:20 |
+| \_  2024-06-13 - Thursday  |            | 2:50 |
+| \_  2024-06-13 - Friday    |            | 7:47 |
+| \_  2024-06-23 - Sunday    |            | 3:14 |
+| \_  2024-06-24 - Monday    |            | 1:47 |
+| \_  2024-06-27 - Thursday  |            | 0:55 |
+| \_  2024-06-29 - Saturday  |            | 2:09 |
+| \_  2024-06-30 - Sunday    |            | 2:42 |
+| \_  2024-07-01 - Monday    |            | 3:15 |
+| \_  2024-07-02 - Tuesday   |            | 5:11 |
+| \_  2024-07-05 - Friday    |            | 0:28 |
+| \_  2024-07-07 - Sunday    |            | 0:01 |
+| \_  2024-07-09 - Tuesday   |            | 3:43 |
+| \_  2024-07-10 - Wednesday |            | 2:59 |
+| \_  2024-07-11 - Thursday  |            | 5:18 |
+| \_  2024-07-12 - Friday    |            | 4:15 |
+| \_  2024-07-13 - Saturday  |            | 5:31 |
+| \_  2024-07-14 - Sunday    |            | 2:17 |
+| \_  2024-07-15 - Monday    |            | 1:50 |
+| \_  2024-07-16 - Tuesday   |            | 5:14 |
+| \_  2024-07-17 - Wednesday |            | 5:48 |
+| \_  2024-07-18 - Thursday  |            | 6:45 |
+| \_  2024-07-19 - Friday    |            | 6:53 |
+| \_  2024-07-20 - Saturday  |            | 1:00 |
+| \_  2024-07-21 - Sunday    |            | 0:56 |
+| \_  2024-07-22 - Monday    |            | 8:03 |
 #+END:
 
 
@@ -2028,8 +2030,20 @@ ValueError: Could not open '~/home/ashleysagar/model.tflite'.
 
 
 ** 2024-07-22 - Monday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-22 Mon 18:09]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *8:19* |      |
+|-------------------------+--------+------|
+| \_  2024-07-22 - Monday |        | 8:19 |
+#+END:
+
+
 :LOGBOOK:
-CLOCK: [2024-07-22 Mon 08:55]
+CLOCK: [2024-07-22 Mon 17:53]--[2024-07-22 Mon 18:09] =>  0:16
+CLOCK: [2024-07-22 Mon 08:55]--[2024-07-22 Mon 16:58] =>  8:03
 :END:
 
 
@@ -2059,7 +2073,6 @@ CLOCK: [2024-07-22 Mon 08:55]
 
 - Continue on getting the tensorflow osc thing working
 - [[https://chatgpt.com/share/40e5bbb9-d729-4aca-9f28-74087d3d0191][here is the Chatgpt link to my things???]]
-posenet_mobilenet_v1_100_257x257_multi_kpt_stripped
 - "/home/ashleysagar/Documents/finalProject/camProj/TensorFlow_Lite_Pose_RPi_32-bits/posenet_mobilenet_v1_100_2>
 - ok. for some reason the rpicam-hello will no longer open a simple --post-process-file from tesorflow
 - possibly as I made changes to running everiubg in a virtual env??
@@ -2075,3 +2088,23 @@ posenet_mobilenet_v1_100_257x257_multi_kpt_stripped
   - start this tomorrow
 - [[https://chatgpt.com/share/0b451559-0694-4eee-ae0f-c2cd5343a34a][here is the link to the chatgpt for setting up openframeworks]]
 - [[https://openframeworks.cc/setup/raspberrypi/raspberry-pi-getting-started/][setup for rasberry pi OpenFrameworks www]]
+- OpenFrameworks is running. Running the make RunRelease command from terminal on the pi is almost instant.
+  - Currently trying to run the make RunRelease from ssh. aking muuuch longer
+- go for lunch. stay clocked in as I'm still trying to run the sketch
+- 40 mins later, still didnt run.
+- installing qt creator
+- [[https://openframeworks.cc/setup/qtcreator/]]
+- I attempted the qtcreator but I'm just running into errors. Its probably easier to run this via editing through ssh on nano and running the RunRelease and building from scratch
+- running emacs from command line
+  - emacs -nw
+- ok. I have to compile the project with make, then run with make RunRelease.
+- still building the new tensorflow pack
+- looking back into tailscale ....
+- build was fine for tensorflow
+- getting oscpack now
+- ok. I think I'mm done for the day.
+- did a lot. still figuring out this camera pose recognition stuff.
+  - maybe have a backup if I cant get this running??
+- got openFrameworks running.
+  - I have to edit the docs via emacs in terminal, but its far better than using nano.
+  - 
