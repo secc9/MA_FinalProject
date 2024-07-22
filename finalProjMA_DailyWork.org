@@ -4,12 +4,12 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-#+CAPTION: Clock summary at [2024-07-22 Mon 17:53]
+#+CAPTION: Clock summary at [2024-07-22 Mon 18:40]
 | Headline                   | Time       |      |
 |----------------------------+------------+------|
-| *Total time*               | *5d 16:43* |      |
+| *Total time*               | *5d 17:24* |      |
 |----------------------------+------------+------|
-| Daily Work                 | 5d 16:43   |      |
+| Daily Work                 | 5d 17:24   |      |
 | \_  2024-05-16 - Thursday  |            | 3:52 |
 | \_  2024-05-17 - Friday    |            | 6:31 |
 | \_  2024-05-21 - Tuesday   |            | 4:01 |
@@ -49,7 +49,7 @@
 | \_  2024-07-19 - Friday    |            | 6:53 |
 | \_  2024-07-20 - Saturday  |            | 1:00 |
 | \_  2024-07-21 - Sunday    |            | 0:56 |
-| \_  2024-07-22 - Monday    |            | 8:03 |
+| \_  2024-07-22 - Monday    |            | 8:44 |
 #+END:
 
 
@@ -2031,17 +2031,17 @@ ValueError: Could not open '~/home/ashleysagar/model.tflite'.
 ** 2024-07-22 - Monday
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2024-07-22 Mon 18:09]
+#+CAPTION: Clock summary at [2024-07-22 Mon 18:40]
 | Headline                | Time   |      |
 |-------------------------+--------+------|
-| *Total time*            | *8:19* |      |
+| *Total time*            | *8:44* |      |
 |-------------------------+--------+------|
-| \_  2024-07-22 - Monday |        | 8:19 |
+| \_  2024-07-22 - Monday |        | 8:44 |
 #+END:
 
 
 :LOGBOOK:
-CLOCK: [2024-07-22 Mon 18:15]
+CLOCK: [2024-07-22 Mon 18:15]--[2024-07-22 Mon 18:40] =>  0:25
 CLOCK: [2024-07-22 Mon 17:53]--[2024-07-22 Mon 18:09] =>  0:16
 CLOCK: [2024-07-22 Mon 08:55]--[2024-07-22 Mon 16:58] =>  8:03
 :END:
