@@ -4,7 +4,6 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-| \_  2024-07-10 - Wednesday |           | 2:59 |
 #+CAPTION: Clock summary at [2024-07-22 Mon 17:53]
 | Headline                   | Time       |      |
 |----------------------------+------------+------|
@@ -2066,7 +2065,8 @@ CLOCK: [2024-07-22 Mon 08:55]--[2024-07-22 Mon 16:58] =>  8:03
 - the thread that matters is the recieving the data of usage that can be processed
   - work out the ultrasonic sensor
     - how the time can be processed into time viewed = £per min
-      - 
+
+      
 - FUCK. I'm really annoyed now. I reformatted a completey fine PI as the screen was flickering after I attemted an upgrade.
   I thought it was the installation as I had stpped it part way. but it turns out that it was the mouse USB connected to the keyboard, connected to the PI. SERENITY NOW!!!!!!!!!!
 -just bought another Pi. thats it. the last one. 4 is enough as I have 4 screens and the pi one??? F knows what I'll do with that.
