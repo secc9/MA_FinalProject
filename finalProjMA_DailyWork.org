@@ -4,52 +4,54 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-#+CAPTION: Clock summary at [2024-07-22 Mon 18:40]
-| Headline                   | Time       |      |
-|----------------------------+------------+------|
-| *Total time*               | *5d 17:24* |      |
-|----------------------------+------------+------|
-| Daily Work                 | 5d 17:24   |      |
-| \_  2024-05-16 - Thursday  |            | 3:52 |
-| \_  2024-05-17 - Friday    |            | 6:31 |
-| \_  2024-05-21 - Tuesday   |            | 4:01 |
-| \_  2024-05-23 - Thursday  |            | 3:21 |
-| \_  2024-05-27 - Monday    |            | 2:00 |
-| \_  2024-05-30 - May       |            | 1:30 |
-| \_  2024-06-01 - Saturday  |            | 1:10 |
-| \_  2024-06-03 - Monday    |            | 1:15 |
-| \_  2024-06-05 - Wednesday |            | 1:07 |
-| \_  2024-06-04 - Tuesday   |            | 0:20 |
-| \_  2024-06-07 - Friday    |            | 4:18 |
-| \_  2024-06-09 - Sunday    |            | 0:48 |
-| \_  2024-06-10 - Monday    |            | 5:20 |
-| \_  2024-06-11 - Tuesday   |            | 4:59 |
-| \_  2024-06-12 - Wednesday |            | 5:20 |
-| \_  2024-06-13 - Thursday  |            | 2:50 |
-| \_  2024-06-13 - Friday    |            | 7:47 |
-| \_  2024-06-23 - Sunday    |            | 3:14 |
-| \_  2024-06-24 - Monday    |            | 1:47 |
-| \_  2024-06-27 - Thursday  |            | 0:55 |
-| \_  2024-06-29 - Saturday  |            | 2:09 |
-| \_  2024-06-30 - Sunday    |            | 2:42 |
-| \_  2024-07-01 - Monday    |            | 3:15 |
-| \_  2024-07-02 - Tuesday   |            | 5:11 |
-| \_  2024-07-05 - Friday    |            | 0:28 |
-| \_  2024-07-07 - Sunday    |            | 0:01 |
-| \_  2024-07-09 - Tuesday   |            | 3:43 |
-| \_  2024-07-10 - Wednesday |            | 2:59 |
-| \_  2024-07-11 - Thursday  |            | 5:18 |
-| \_  2024-07-12 - Friday    |            | 4:15 |
-| \_  2024-07-13 - Saturday  |            | 5:31 |
-| \_  2024-07-14 - Sunday    |            | 2:17 |
-| \_  2024-07-15 - Monday    |            | 1:50 |
-| \_  2024-07-16 - Tuesday   |            | 5:14 |
-| \_  2024-07-17 - Wednesday |            | 5:48 |
-| \_  2024-07-18 - Thursday  |            | 6:45 |
-| \_  2024-07-19 - Friday    |            | 6:53 |
-| \_  2024-07-20 - Saturday  |            | 1:00 |
-| \_  2024-07-21 - Sunday    |            | 0:56 |
-| \_  2024-07-22 - Monday    |            | 8:44 |
+#+CAPTION: Clock summary at [2024-07-24 Wed 18:46]
+| Headline                   | Time      |      |
+|----------------------------+-----------+------|
+| *Total time*               | *6d 6:14* |      |
+|----------------------------+-----------+------|
+| Daily Work                 | 6d 6:14   |      |
+| \_  2024-05-16 - Thursday  |           | 3:52 |
+| \_  2024-05-17 - Friday    |           | 6:31 |
+| \_  2024-05-21 - Tuesday   |           | 4:01 |
+| \_  2024-05-23 - Thursday  |           | 3:21 |
+| \_  2024-05-27 - Monday    |           | 2:00 |
+| \_  2024-05-30 - May       |           | 1:30 |
+| \_  2024-06-01 - Saturday  |           | 1:10 |
+| \_  2024-06-03 - Monday    |           | 1:15 |
+| \_  2024-06-05 - Wednesday |           | 1:07 |
+| \_  2024-06-04 - Tuesday   |           | 0:20 |
+| \_  2024-06-07 - Friday    |           | 4:18 |
+| \_  2024-06-09 - Sunday    |           | 0:48 |
+| \_  2024-06-10 - Monday    |           | 5:20 |
+| \_  2024-06-11 - Tuesday   |           | 4:59 |
+| \_  2024-06-12 - Wednesday |           | 5:20 |
+| \_  2024-06-13 - Thursday  |           | 2:50 |
+| \_  2024-06-13 - Friday    |           | 7:47 |
+| \_  2024-06-23 - Sunday    |           | 3:14 |
+| \_  2024-06-24 - Monday    |           | 1:47 |
+| \_  2024-06-27 - Thursday  |           | 0:55 |
+| \_  2024-06-29 - Saturday  |           | 2:09 |
+| \_  2024-06-30 - Sunday    |           | 2:42 |
+| \_  2024-07-01 - Monday    |           | 3:15 |
+| \_  2024-07-02 - Tuesday   |           | 5:11 |
+| \_  2024-07-05 - Friday    |           | 0:28 |
+| \_  2024-07-07 - Sunday    |           | 0:01 |
+| \_  2024-07-09 - Tuesday   |           | 3:43 |
+| \_  2024-07-10 - Wednesday |           | 2:59 |
+| \_  2024-07-11 - Thursday  |           | 5:18 |
+| \_  2024-07-12 - Friday    |           | 4:15 |
+| \_  2024-07-13 - Saturday  |           | 5:31 |
+| \_  2024-07-14 - Sunday    |           | 2:17 |
+| \_  2024-07-15 - Monday    |           | 1:50 |
+| \_  2024-07-16 - Tuesday   |           | 5:14 |
+| \_  2024-07-17 - Wednesday |           | 5:48 |
+| \_  2024-07-18 - Thursday  |           | 6:45 |
+| \_  2024-07-19 - Friday    |           | 6:53 |
+| \_  2024-07-20 - Saturday  |           | 1:00 |
+| \_  2024-07-21 - Sunday    |           | 0:56 |
+| \_  2024-07-22 - Monday    |           | 8:44 |
+| \_  2024-07-23 - Tuesday   |           | 6:18 |
+| \_  2024-07-24 - Wednesday |           | 6:32 |
 #+END:
 
 
@@ -2109,3 +2111,105 @@ CLOCK: [2024-07-22 Mon 08:55]--[2024-07-22 Mon 16:58] =>  8:03
 - got openFrameworks running.
   - I have to edit the docs via emacs in terminal, but its far better than using nano.
   - 
+
+
+
+** 2024-07-23 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-23 Tue 18:25]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *6:18* |      |
+|--------------------------+--------+------|
+| \_  2024-07-23 - Tuesday |        | 6:18 |
+#+END:
+
+
+
+:LOGBOOK:
+CLOCK: [2024-07-23 Tue 16:11]--[2024-07-23 Tue 18:25] =>  2:14
+CLOCK: [2024-07-23 Tue 13:35]--[2024-07-23 Tue 15:53] =>  2:18
+CLOCK: [2024-07-23 Tue 10:26]--[2024-07-23 Tue 12:12] =>  1:46
+:END:
+
+
+
+- I possibly need another PSU for a RPI as the one i have cannot supply enough power to run the screen
+- spend the morning trying to get this pi camera thing running.
+  - c++ scripts
+  - Codeblocks keeps randomly crashing. goind to reinstaall
+  - trying VSCode on the pi.
+  - on with attempintg some long ass way of setting up this patch working from the chatgpt code.
+  - [[https://chatgpt.com/share/01b34d31-9c7f-4764-a1b4-20bdb2511eb5][Tensorflow => osc => supercollider???? Maybe. Not checked it yet]]
+  - ok. do 1 more hr on this then start installing SC. oh. Buy a better PSU
+  - trying out openframeworks????
+  - maybe this is a bust?
+  - so. openFrameworks is running on the pi os
+  - ran a 3d example fine
+  - now try a video one
+  - not recognising the camera
+  - recognises a webcam
+  - still no joy.
+  - DO I reinstall linux and try again??
+- move onto making supercollider work
+  - nope. not gonna work
+  - need a new psu with more power
+  - maybe i'm running the pi 5 on a pi 4 psu?
+- ok. the power is fixed now
+- installing v3.13 of supercollider.
+- just running make. going to stay clocked in whilst I do this but go make dinner
+- currently the build is at 20% @ 17.36
+- SC installed. Deal with the audio card tomorrow
+  
+
+
+
+** 2024-07-24 - Wednesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-24 Wed 18:46]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *6:32* |      |
+|----------------------------+--------+------|
+| \_  2024-07-24 - Wednesday |        | 6:32 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-24 Wed 14:10]--[2024-07-24 Wed 18:46] =>  4:36
+CLOCK: [2024-07-24 Wed 09:59]--[2024-07-24 Wed 11:55] =>  1:56
+:END:
+
+
+
+- still waiting for the final pi to show up
+- make a bash script for the camera??
+  - maybe I can send the camera feed????
+- OK. i now have two bash scripts
+  - The RPI4  sending video stream through udp to the RPI5-2
+  - The second script is to recieve the UDP stream into ffplay via UDP.
+- look into setting up a new post process fike
+- maybe a way to pipe into and change ffplay settings??
+- each script needs running locally though.
+- look into getting them to run automatically
+- look at pushing from linux into a git???
+- first I need to clone
+- [[https://www.theodinproject.com/lessons/foundations-setting-up-git][setting up git TOP way]]
+- git set up on three pis.
+- [[git@github.com:secc9/MA_FinalProject.git][clone the MA repo]]
+- done.
+- Take lunch
+- look into [[https://ffglitch.org/download/][ffglitch]] to run as processing for ffplay
+- new delivery came.
+- [[https://ffmpeg.org/ffmpeg-filters.html#Video-Filters][ffmpeg video filters]]
+- installing linux on the last pi.
+  - tomorrow start figuring out a way to read the ultrasonic distance sensor
+  - [[https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi][seems like a good start pi hut]]
+- not  a bad day today.
+- i got some way through the pi camera thing. keep looking at ffmpeg. try figure a way to glitch it live if you can
+- the last pi turned up with the fans
+- finished for the day
+
+
+
+** 2024-07-25
