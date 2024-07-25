@@ -2212,4 +2212,46 @@ CLOCK: [2024-07-24 Wed 09:59]--[2024-07-24 Wed 11:55] =>  1:56
 
 
 
-** 2024-07-25
+** 2024-07-25 - Thursday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-25 Thu 13:04]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *4:35* |      |
+|---------------------------+--------+------|
+| \_  2024-07-25 - Thursday |        | 4:35 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-25 Thu 14:00]
+CLOCK: [2024-07-25 Thu 08:29]--[2024-07-25 Thu 13:04] =>  4:35
+:END:
+
+
+- This morning, work on the ultrasonic sensor
+- [[https://pypi.org/project/RPi.GPIO/][RPi.GPIO]]
+  - "Note that this module is unsuitable for real-time or timing critical applications. This is because you can not predict when Python will be busy garbage collecting."
+  - Hmm. Great.
+  - so I think its arduino time. but running arduino from the pi
+- [[https://maker.pro/raspberry-pi/tutorial/how-to-connect-and-interface-raspberry-pi-with-arduino][PI 2 Arduino]]
+- I have arduino installed.
+- I think I need to get the data from arduino int processing on the pi
+  - when the distance sensor breaks a certain point the data is collected and converted into time and then [[https://processing.org/reference/Table.html][inputted into a spreadsheet table in processing]]
+  - got the code running and picking up distances
+  - neet to now move that to processing somehow
+  - install processing
+- making a basic camera holder [[PiCamAngle.STL][picam holder]]
+- Procssing installed (install the RPI version tho mate eh ;) )
+- yes
+- lets move on. Do some ffmpeg stuff
+  - what do I want to do?
+  - lets research some ffmpeg glitch stuff???
+  - maybe try to replace the ffglich patched int theffmpeg and see what happens????
+  - do a vertical flip for now
+  - [[http://datamoshing.com/][Datamoshing]]
+  - keep looking into the filters to see if you can get any more interesting things going on
+
+- then onto some supercollider
+- then onto openframeworks
