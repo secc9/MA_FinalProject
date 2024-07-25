@@ -4,7 +4,7 @@
 
 
 # run app
-rpicam-vid --inline -o udp://127.0.0.1:5000 -n --width 1024 --height 600  --timeout 30000 --lores-width 258 --lores-height 258 --vflip 1
+rpicam-vid --inline -o udp://127.0.0.1:5000 -n --width 1024 --height 600  --timeout 60000 --lores-width 258 --lores-height 258 --vflip 1
 
 
 #rpicam-vid --inline -o udp://127.0.0.1:5000 -n --width 1024 --height 600  --post-process-file /home/ashleysagar/rpicam-apps/assets/pose_estimation_tf.json --timeout 30000 --lores-width 258 --lores-height 258 --vflip 1
