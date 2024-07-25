@@ -4,54 +4,55 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-#+CAPTION: Clock summary at [2024-07-24 Wed 18:46]
-| Headline                   | Time      |      |
-|----------------------------+-----------+------|
-| *Total time*               | *6d 6:14* |      |
-|----------------------------+-----------+------|
-| Daily Work                 | 6d 6:14   |      |
-| \_  2024-05-16 - Thursday  |           | 3:52 |
-| \_  2024-05-17 - Friday    |           | 6:31 |
-| \_  2024-05-21 - Tuesday   |           | 4:01 |
-| \_  2024-05-23 - Thursday  |           | 3:21 |
-| \_  2024-05-27 - Monday    |           | 2:00 |
-| \_  2024-05-30 - May       |           | 1:30 |
-| \_  2024-06-01 - Saturday  |           | 1:10 |
-| \_  2024-06-03 - Monday    |           | 1:15 |
-| \_  2024-06-05 - Wednesday |           | 1:07 |
-| \_  2024-06-04 - Tuesday   |           | 0:20 |
-| \_  2024-06-07 - Friday    |           | 4:18 |
-| \_  2024-06-09 - Sunday    |           | 0:48 |
-| \_  2024-06-10 - Monday    |           | 5:20 |
-| \_  2024-06-11 - Tuesday   |           | 4:59 |
-| \_  2024-06-12 - Wednesday |           | 5:20 |
-| \_  2024-06-13 - Thursday  |           | 2:50 |
-| \_  2024-06-13 - Friday    |           | 7:47 |
-| \_  2024-06-23 - Sunday    |           | 3:14 |
-| \_  2024-06-24 - Monday    |           | 1:47 |
-| \_  2024-06-27 - Thursday  |           | 0:55 |
-| \_  2024-06-29 - Saturday  |           | 2:09 |
-| \_  2024-06-30 - Sunday    |           | 2:42 |
-| \_  2024-07-01 - Monday    |           | 3:15 |
-| \_  2024-07-02 - Tuesday   |           | 5:11 |
-| \_  2024-07-05 - Friday    |           | 0:28 |
-| \_  2024-07-07 - Sunday    |           | 0:01 |
-| \_  2024-07-09 - Tuesday   |           | 3:43 |
-| \_  2024-07-10 - Wednesday |           | 2:59 |
-| \_  2024-07-11 - Thursday  |           | 5:18 |
-| \_  2024-07-12 - Friday    |           | 4:15 |
-| \_  2024-07-13 - Saturday  |           | 5:31 |
-| \_  2024-07-14 - Sunday    |           | 2:17 |
-| \_  2024-07-15 - Monday    |           | 1:50 |
-| \_  2024-07-16 - Tuesday   |           | 5:14 |
-| \_  2024-07-17 - Wednesday |           | 5:48 |
-| \_  2024-07-18 - Thursday  |           | 6:45 |
-| \_  2024-07-19 - Friday    |           | 6:53 |
-| \_  2024-07-20 - Saturday  |           | 1:00 |
-| \_  2024-07-21 - Sunday    |           | 0:56 |
-| \_  2024-07-22 - Monday    |           | 8:44 |
-| \_  2024-07-23 - Tuesday   |           | 6:18 |
-| \_  2024-07-24 - Wednesday |           | 6:32 |
+#+CAPTION: Clock summary at [2024-07-25 Thu 22:56]
+| Headline                   | Time       |       |
+|----------------------------+------------+-------|
+| *Total time*               | *6d 17:00* |       |
+|----------------------------+------------+-------|
+| Daily Work                 | 6d 17:00   |       |
+| \_  2024-05-16 - Thursday  |            |  3:52 |
+| \_  2024-05-17 - Friday    |            |  6:31 |
+| \_  2024-05-21 - Tuesday   |            |  4:01 |
+| \_  2024-05-23 - Thursday  |            |  3:21 |
+| \_  2024-05-27 - Monday    |            |  2:00 |
+| \_  2024-05-30 - May       |            |  1:30 |
+| \_  2024-06-01 - Saturday  |            |  1:10 |
+| \_  2024-06-03 - Monday    |            |  1:15 |
+| \_  2024-06-05 - Wednesday |            |  1:07 |
+| \_  2024-06-04 - Tuesday   |            |  0:20 |
+| \_  2024-06-07 - Friday    |            |  4:18 |
+| \_  2024-06-09 - Sunday    |            |  0:48 |
+| \_  2024-06-10 - Monday    |            |  5:20 |
+| \_  2024-06-11 - Tuesday   |            |  4:59 |
+| \_  2024-06-12 - Wednesday |            |  5:20 |
+| \_  2024-06-13 - Thursday  |            |  2:50 |
+| \_  2024-06-13 - Friday    |            |  7:47 |
+| \_  2024-06-23 - Sunday    |            |  3:14 |
+| \_  2024-06-24 - Monday    |            |  1:47 |
+| \_  2024-06-27 - Thursday  |            |  0:55 |
+| \_  2024-06-29 - Saturday  |            |  2:09 |
+| \_  2024-06-30 - Sunday    |            |  2:42 |
+| \_  2024-07-01 - Monday    |            |  3:15 |
+| \_  2024-07-02 - Tuesday   |            |  5:11 |
+| \_  2024-07-05 - Friday    |            |  0:28 |
+| \_  2024-07-07 - Sunday    |            |  0:01 |
+| \_  2024-07-09 - Tuesday   |            |  3:43 |
+| \_  2024-07-10 - Wednesday |            |  2:59 |
+| \_  2024-07-11 - Thursday  |            |  5:18 |
+| \_  2024-07-12 - Friday    |            |  4:15 |
+| \_  2024-07-13 - Saturday  |            |  5:31 |
+| \_  2024-07-14 - Sunday    |            |  2:17 |
+| \_  2024-07-15 - Monday    |            |  1:50 |
+| \_  2024-07-16 - Tuesday   |            |  5:14 |
+| \_  2024-07-17 - Wednesday |            |  5:48 |
+| \_  2024-07-18 - Thursday  |            |  6:45 |
+| \_  2024-07-19 - Friday    |            |  6:53 |
+| \_  2024-07-20 - Saturday  |            |  1:00 |
+| \_  2024-07-21 - Sunday    |            |  0:56 |
+| \_  2024-07-22 - Monday    |            |  8:44 |
+| \_  2024-07-23 - Tuesday   |            |  6:18 |
+| \_  2024-07-24 - Wednesday |            |  6:32 |
+| \_  2024-07-25 - Thursday  |            | 10:46 |
 #+END:
 
 
@@ -2215,17 +2216,17 @@ CLOCK: [2024-07-24 Wed 09:59]--[2024-07-24 Wed 11:55] =>  1:56
 ** 2024-07-25 - Thursday
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2024-07-25 Thu 13:04]
-| Headline                  | Time   |      |
-|---------------------------+--------+------|
-| *Total time*              | *4:35* |      |
-|---------------------------+--------+------|
-| \_  2024-07-25 - Thursday |        | 4:35 |
+#+CAPTION: Clock summary at [2024-07-25 Thu 20:12]
+| Headline                  | Time    |       |
+|---------------------------+---------+-------|
+| *Total time*              | *10:46* |       |
+|---------------------------+---------+-------|
+| \_  2024-07-25 - Thursday |         | 10:46 |
 #+END:
 
 
 :LOGBOOK:
-CLOCK: [2024-07-25 Thu 14:00]
+CLOCK: [2024-07-25 Thu 14:00]--[2024-07-25 Thu 20:11] =>  6:11
 CLOCK: [2024-07-25 Thu 08:29]--[2024-07-25 Thu 13:04] =>  4:35
 :END:
 
@@ -2252,6 +2253,11 @@ CLOCK: [2024-07-25 Thu 08:29]--[2024-07-25 Thu 13:04] =>  4:35
   - do a vertical flip for now
   - [[http://datamoshing.com/][Datamoshing]]
   - keep looking into the filters to see if you can get any more interesting things going on
+  - [[https://ffmpeg.org/ffmpeg-filters.html#libplacebo][libplacebo ffmpeg Documentation]]
+    - [[https://code.videolan.org/videolan/libplacebo/-/blob/master/README.md][also the actual libplacebo]]
+  - removed ffmpeg and rebuilding it from source instead so that i can "use" thelibplacebo library with it
+  - didnt install with ffplay :/
+  - I need to figure out hoe to installl libpl;acebo using the apt install ?
 
 - then onto some supercollider
 - then onto openframeworks
