@@ -4,12 +4,12 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-#+CAPTION: Clock summary at [2024-07-25 Thu 22:56]
+#+CAPTION: Clock summary at [2024-07-26 Fri 14:20]
 | Headline                   | Time       |       |
 |----------------------------+------------+-------|
-| *Total time*               | *6d 17:00* |       |
+| *Total time*               | *6d 19:52* |       |
 |----------------------------+------------+-------|
-| Daily Work                 | 6d 17:00   |       |
+| Daily Work                 | 6d 19:52   |       |
 | \_  2024-05-16 - Thursday  |            |  3:52 |
 | \_  2024-05-17 - Friday    |            |  6:31 |
 | \_  2024-05-21 - Tuesday   |            |  4:01 |
@@ -53,6 +53,7 @@
 | \_  2024-07-23 - Tuesday   |            |  6:18 |
 | \_  2024-07-24 - Wednesday |            |  6:32 |
 | \_  2024-07-25 - Thursday  |            | 10:46 |
+| \_  2024-07-26 - Friday    |            |  2:52 |
 #+END:
 
 
@@ -2261,3 +2262,186 @@ CLOCK: [2024-07-25 Thu 08:29]--[2024-07-25 Thu 13:04] =>  4:35
 
 - then onto some supercollider
 - then onto openframeworks
+
+
+
+
+** 2024-07-26 - Friday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-26 Fri 14:20]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:52* |      |
+|-------------------------+--------+------|
+| \_  2024-07-26 - Friday |        | 2:52 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-26 Fri 09:32]--[2024-07-26 Fri 12:24] =>  2:52
+:END:
+
+
+
+- found this last night for some ffmpeg effects [[https://trac.ffmpeg.org/wiki/FancyFilteringExamples][fancy filtering]]
+  - ffmpeg -filters
+  - T.. are timescale enabled
+    - T.. floodfill
+    - T.. gradfun           V->V       Debands video quickly using gradients.
+    - T.. hysteresis        VV->V      Grow first stream into second stream by connecting components.
+    - T.. midequalizer      VV->V      Apply Midway Equalization.
+    - T.. shuffleframes     V->V       Shuffle video frames.
+    - T.. tmidequalizer     V->V       Apply Temporal Midway Equalization.
+    - TSC amplify           V->V       Amplify changes between successive video frames.
+    - 
+- work on getting data from arduino to processing
+  - [[https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all][arduino to processing]]
+  - ok. Chatgpt has written a couple of scripts for me.
+- prompt
+- i have a arduino sketch checking distance with the HCSR04 lib and I want it to notice at what point the distance sensor has been broken and for how long and I want to send this data over to processing and convert it into time data and insert it into a table
+  - Certainly! To achieve this, you'll need to follow these steps:
+- **Create an Arduino Sketch to Measure Distance and Detect Broken Sensor**
+- **Send Data to Processing**
+- **Write a Processing Sketch to Receive Data, Convert It, and Insert It into a Table**
+
+### 1. Create an Arduino Sketch
+
+The Arduino sketch will measure the distance using the HC-SR04 sensor and detect when the sensor is "broken" (e.g., if the distance is out of the expected range). It will then send the relevant data to Processing.
+
+Here’s an example Arduino sketch:
+
+```cpp
+#include <NewPing.h>
+
+// Define pins and constants
+#define TRIGGER_PIN  12
+#define ECHO_PIN     13
+#define MAX_DISTANCE 200  // Max distance (in cm) to measure
+#define BROKEN_THRESHOLD 10  // Define a threshold for when the sensor is considered broken
+
+NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  delay(100);  // Delay between measurements
+  unsigned int distance = sonar.ping_cm();
+
+  // Check if the distance measurement is valid
+  if (distance > 0 && distance < BROKEN_THRESHOLD) {
+    Serial.print("Sensor Broken; Distance: ");
+    Serial.println(distance);
+  } else {
+    Serial.print("Normal; Distance: ");
+    Serial.println(distance);
+  }
+}
+```
+
+In this sketch:
+- The `NewPing` library is used to interface with the HC-SR04 sensor.
+- The sensor is considered "broken" if the measured distance is less than `BROKEN_THRESHOLD` cm.
+
+### 2. Send Data to Processing
+
+The Arduino will send data over the serial port, which will be read by Processing.
+
+### 3. Write a Processing Sketch
+
+Here’s a Processing sketch that reads the data from the Arduino, converts it into time data, and inserts it into a table.
+
+```java
+import processing.serial.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+Serial myPort;
+String incomingData = "";
+ArrayList<HashMap<String, String>> dataTable = new ArrayList<>();
+long startTime;
+
+void setup() {
+  size(600, 400);
+  // Initialize the serial port
+  myPort = new Serial(this, "/dev/ttyACM0", 9600);  // Update the port as needed
+  startTime = millis();  // Record the start time
+  noLoop();  // Stop draw loop if only updating on serial data
+}
+
+void draw() {
+  background(255);
+  fill(0);
+  textSize(16);
+  text("Data Table", 10, 30);
+  
+  // Display table headers
+  text("Timestamp (s)", 10, 60);
+  text("Type", 200, 60);
+  text("Distance (cm)", 350, 60);
+
+  // Display table data
+  int y = 90;
+  for (HashMap<String, String> row : dataTable) {
+    text(row.get("timestamp"), 10, y);
+    text(row.get("type"), 200, y);
+    text(row.get("distance"), 350, y);
+    y += 30;
+  }
+}
+
+void serialEvent(Serial myPort) {
+  incomingData = myPort.readStringUntil('\n');
+  
+  if (incomingData != null) {
+    incomingData = trim(incomingData);
+    
+    // Parse incoming data
+    String[] parts = split(incomingData, ';');
+    if (parts.length == 2) {
+      String type = parts[0];  // "Sensor Broken" or "Normal"
+      String distance = parts[1];  // Distance value
+      
+      // Record timestamp
+      long timestamp = (millis() - startTime) / 1000;  // Convert milliseconds to seconds
+      
+      // Create a new row in the table
+      HashMap<String, String> row = new HashMap<>();
+      row.put("timestamp", str(timestamp));
+      row.put("type", type);
+      row.put("distance", distance);
+      
+      // Add the row to the table
+      dataTable.add(row);
+      
+      // Redraw the table
+      redraw();
+    }
+  }
+}
+```
+
+### Explanation:
+
+1. **Arduino Sketch:**
+   - Measures distance using the HC-SR04 sensor.
+   - Sends a string to the serial port indicating whether the sensor is broken or normal, along with the distance.
+
+2. **Processing Sketch:**
+   - Initializes the serial port to receive data from Arduino.
+   - Reads incoming serial data and parses it into type and distance.
+   - Converts the time elapsed since the start of the sketch into seconds.
+   - Adds the data to a table (`dataTable`) and displays it on the Processing window.
+
+### Handling Data:
+
+- **Serial Data Format:** Ensure the data format from Arduino matches what Processing expects (`"Sensor Broken;10"` or `"Normal;20"`).
+- **Port Configuration:** Update `"/dev/ttyACM0"` in the Processing sketch to match your system’s serial port.
+
+By following these steps, you can successfully send data from an Arduino to Processing, track when the sensor is broken, and display and log this information in a table. If you encounter any specific issues or have additional requirements, let me know!
+
+
+
+
+- figure out a way to send the rpicam through 2 seperate lines
