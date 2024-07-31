@@ -4,12 +4,12 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-#+CAPTION: Clock summary at [2024-07-26 Fri 14:20]
+#+CAPTION: Clock summary at [2024-07-31 Wed 08:38]
 | Headline                   | Time       |       |
 |----------------------------+------------+-------|
-| *Total time*               | *6d 19:52* |       |
+| *Total time*               | *7d 17:49* |       |
 |----------------------------+------------+-------|
-| Daily Work                 | 6d 19:52   |       |
+| Daily Work                 | 7d 17:49   |       |
 | \_  2024-05-16 - Thursday  |            |  3:52 |
 | \_  2024-05-17 - Friday    |            |  6:31 |
 | \_  2024-05-21 - Tuesday   |            |  4:01 |
@@ -53,7 +53,10 @@
 | \_  2024-07-23 - Tuesday   |            |  6:18 |
 | \_  2024-07-24 - Wednesday |            |  6:32 |
 | \_  2024-07-25 - Thursday  |            | 10:46 |
-| \_  2024-07-26 - Friday    |            |  2:52 |
+| \_  2024-07-26 - Friday    |            |  3:26 |
+| \_  2024-07-28 - Sunday    |            |  7:30 |
+| \_  2024-07-29 - Monday    |            |  9:52 |
+| \_  2024-07-30 - Tuesday   |            |  4:01 |
 #+END:
 
 
@@ -275,6 +278,8 @@ sofar, vol. 3 (September 9, 2020).
 
 
 
+
+
 * July - Work In Progress
 
 ** CREATE FLOORPLAN DEADLINE 12TH MAY
@@ -313,9 +318,19 @@ sofar, vol. 3 (September 9, 2020).
 
 ////////////////////////////////////////////
 
+* A big list of references 
+
+- [[https://www.youtube.com/watch?v=nobWeGycSe8&t=85s][videoArt with ffmpeg youtube]]
+- [[https://www.youtube.com/watch?v=Xm1qooUNELM&t=105s][hellocatfoodYT]]
+- [[https://www.hellocatfood.com/motion-interpolation-for-glitch-aesthetics-using-ffmpeg-part-0/][Hellocatfood motionInterpolatin]]
 
 
-* MileStones
+
+
+///////////////////////////////////////////
+
+
+* Milestones
 
 * START HERE WITH ALL YOUR WORK
 
@@ -444,7 +459,7 @@ each screen is one application
 
 |       date | start time | end time | hours worked | my hourly rate | minimum wage under 18 | mw under 21 | mw over 21 | median wage | london median |
 |------------+------------+----------+--------------+----------------+-----------------------+-------------+------------+-------------+---------------|
-| 2024-05-21 |      15:04 |    15:05 |         0:01 |             18 |                  6.40 | 8.60        |      11.44 |             |               |
+| 2024-05-21 |      15:04 |    15:05 |         0:01 |             18 |                  6.40 |        8.60 |      11.44 |             |               |
 |            |            |          |              |                |                       |             |            |             |               |
 |            |            |          |              |                |                       |             |            |             |               |
 |            |            |          |              |                |                       |             |            |             |               |
@@ -2268,16 +2283,17 @@ CLOCK: [2024-07-25 Thu 08:29]--[2024-07-25 Thu 13:04] =>  4:35
 
 ** 2024-07-26 - Friday
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2024-07-26 Fri 14:20]
+#+CAPTION: Clock summary at [2024-07-26 Fri 21:06]
 | Headline                | Time   |      |
 |-------------------------+--------+------|
-| *Total time*            | *2:52* |      |
+| *Total time*            | *3:26* |      |
 |-------------------------+--------+------|
-| \_  2024-07-26 - Friday |        | 2:52 |
+| \_  2024-07-26 - Friday |        | 3:26 |
 #+END:
 
 
 :LOGBOOK:
+CLOCK: [2024-07-26 Fri 20:32]--[2024-07-26 Fri 21:06] =>  0:34
 CLOCK: [2024-07-26 Fri 09:32]--[2024-07-26 Fri 12:24] =>  2:52
 :END:
 
@@ -2445,3 +2461,182 @@ By following these steps, you can successfully send data from an Arduino to Proc
 
 
 - figure out a way to send the rpicam through 2 seperate lines
+
+
+** 2024-07-28 - Saturday
+- installed ffmpeg from source on the macbook pro
+- one as a normal installation and one in a virtual environment.
+- both installed fine with ff play.
+
+** 2024-07-28 - Sunday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-29 Mon 08:48]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:55* |      |
+|-------------------------+--------+------|
+| \_  2024-07-28 - Sunday |        | 2:55 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-29 Mon 17:20]--[2024-07-29 Mon 21:55] =>  4:35
+CLOCK: [2024-07-28 Sun 16:40]--[2024-07-28 Sun 16:57] =>  0:17
+CLOCK: [2024-07-28 Sun 12:22]--[2024-07-28 Sun 15:00] =>  2:38
+:END:
+
+
+- going to install ffmpeg on a linux pi to see if I can get the ffplay to install.
+  - maybe it's just a PI os problem??
+  - I'm still thinking about reformatting the pi and running linux on it again now that I see a pipework through this
+    - full install (via chatgpt)
+    - [[https://chatgpt.com/share/42bd338a-bb1e-4ff9-95de-14c5dd170219][chatgpt full ffmpeg install linux??????]]
+    - [[https://chatgpt.com/share/42bd338a-bb1e-4ff9-95de-14c5dd170219][i actuaklly used this one for the install]]
+    - I did a thing where I changed the prompt and changed it back and it gave me completely different results.
+      - maybe this is an idea for another time???
+- OK. I did a reisntall and I have ffplay on the linux versions of tjhe pis.
+- The big question is now do I go and re isntall the original pi4 with the camera BACk to linux AGAIN and just go with linux since I'm using the rpicam and ffmepg/ffplay from source.
+- I have the ????? I dont know what this was. something happened?
+- spend a little time on this youtube thing
+  - [[https://www.youtube.com/watch?v=nobWeGycSe8&t=85s][Artificial Images video art with ffmpeg]]
+- ok. did a little basic intro to ffmpeg with these series
+- try to send video from the pi4 to the supercollider pi5-1
+- how do I send multiple outputs of the same video feed in RPICAM-vid??????
+  - ok. I have this running. 
+
+** 2024-07-29 - Monday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-29 Mon 21:56]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *9:52* |      |
+|-------------------------+--------+------|
+| \_  2024-07-29 - Monday |        | 9:52 |
+#+END:
+
+
+
+
+:LOGBOOK:
+CLOCK: [2024-07-29 Mon 17:00]--[2024-07-29 Mon 21:00] =>  4:00
+CLOCK: [2024-07-29 Mon 14:57]--[2024-07-29 Mon 15:52] =>  0:55
+CLOCK: [2024-07-29 Mon 08:48]--[2024-07-29 Mon 13:45] =>  4:57
+:END:
+
+
+
+- today???
+- do the sensor for the morning
+  - So. I have the arduino code working. only 1 sensor atm
+  - I have 3 ultrasonic sensors in total. I could do with a 4th. I need to test one that I picked up to see if it works
+  - they both work.
+  - I still need to remove the other from the board??
+    - or do I attach the empty one to a new board?
+    - lets check out the proessing code?
+    - at some point.
+      - install arduino all all the machines.
+      - have the distance sensing script running on 3 arduinos
+      - or
+      - have the 3 sensors running on one board. with a breakout board.
+      - or
+      - maybe 3 x arduino and send the data via the network
+      - Also look at changing the network.
+	- atm I'm running from my internet into a switcher
+	- I probably want to create a network on the mango
+	- then out of that to the switcher
+	  - using the little yellow mango router all the pis have to run wireless
+	  - 
+- [[ https://github.com/d03n3rfr1tz3/HC-SR04][Dirk Sardonik HC-SR04 Ultrasonc Sensor Library]]
+- what do I want to do?
+- I want to be able to have the distance sensor trigger when movement is detected  at a certain point and at the same time  whilst the sensor is broken, pick up that amount of time and log it
+- [[https://chatgpt.com/share/b68e6ad4-83e8-4cd0-9a85-c52d1cd298a5][here is the chatgpt for this code]]
+- done
+- 
+- the sketch triggers currently at a distance of 50 cm
+- now what do I want to do?
+- now I want to be able to take that time data and pass it through to processing. ANd in processing I want to log that data in a table and start to convert it.
+  - convert it to what?
+    - the time comes in in milliseconds
+    - convert milliseconds to hours, minutes and seconds
+    - somehow then convert that into an hourly wage
+  - Also add in the other distance sensors
+- [[https://www.youtube.com/watch?v=woaR-CJEwqc&t=451s][Schiffman Tabular Data processing]]
+  - this video I think is no good as its taking data tables?????
+- [[https://vimeo.com/showcase/2573675][Intro to Processing for Data Viz]]
+- what do I want to do?
+- done for today
+- tomorrow continue on the logging the data to a file
+- [[https://chatgpt.com/share/b68e6ad4-83e8-4cd0-9a85-c52d1cd298a5][chatgpt link for the processing patch]]
+  
+- Afternoon work on the visuals side.
+- 
+- I need to think about how it's going to look??
+- there's a lot of visual wiring issues.
+  - especially if I'm wiring seperate arduinos.
+  - 
+- I think it seems that I cant send ffplay anywhere....
+  - its only a viewer so I cant actually send it anywhere or capture the output.
+- do I just have 3 seperate things that dont interact with each other???
+- can I still send the rpicam to the ffplay effect and to the pi5-1?
+- all this seems quite difficult
+- move onto making supercollider stuff for a while
+- and open frameworks.
+- maybe each is its own thing???
+- instead of being some kind of elaborate feedback loop
+- 
+
+
+
+
+** 2024-07-30 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-30 Tue 17:56]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *4:01* |      |
+|--------------------------+--------+------|
+| \_  2024-07-30 - Tuesday |        | 4:01 |
+#+END:
+
+
+
+:LOGBOOK:
+CLOCK: [2024-07-30 Tue 09:14]--[2024-07-30 Tue 13:15] =>  4:01
+:END:
+
+- take the morning to try a different route into the pi4 video capture
+  - take a 4 secong video loop
+  - process it in ffmpeg
+  - play it/show it
+  - loop the process
+  - so a nev video plays every 4 seconds??
+- I have a script running from a [[https://chatgpt.com/share/6983a33b-d494-44ad-9b18-6afe7eb686ea][chatgpt prompt]]
+- I have a script that films a 4 second  loop. then processes it and then plays it and then deletes the file and repeats this over and over
+- running a minterpolate and its taking ages. and I mean an age
+- I currently have a nice script running that films a 10 second loop, processes that loop with some effects and then plays that loop on the same machine, then sends that processed video out to another machine via udp
+
+
+
+** 2024-07-31 - Wednesday
+
+
+:LOGBOOK:
+CLOCK: [2024-07-31 Wed 08:39]
+:END:
+
+
+
+- Yesterday I bought 2 cheap webcams for the total of £18
+- I have webcam.
+  - video 4 does work in processing for pi.
+  - using Fredrik olaffsons udk materials for this bit
+- WHAT DO I WANT TO DO?
+  - i want to
+  - i want to make an interactive video and sound piece
+    - get webcam in
+    - something with osc in processing
+    - send that osc to supercollider
+    - make a patch in Supercollider
+    - 
