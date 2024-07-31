@@ -2623,7 +2623,9 @@ CLOCK: [2024-07-30 Tue 09:14]--[2024-07-30 Tue 13:15] =>  4:01
 
 
 :LOGBOOK:
-CLOCK: [2024-07-31 Wed 08:39]
+CLOCK: [2024-07-31 Wed 16:55]
+CLOCK: [2024-07-31 Wed 13:30]--[2024-07-31 Wed 15:55] =>  2:25
+CLOCK: [2024-07-31 Wed 08:39]--[2024-07-31 Wed 11:40] =>  3:01
 :END:
 
 
@@ -2640,3 +2642,16 @@ CLOCK: [2024-07-31 Wed 08:39]
     - send that osc to supercollider
     - make a patch in Supercollider
     - 
+- look into audotmating with crontab
+
+
+
+- chat with Patrick
+  - HOW AM I GOING TO SHOW IT?????
+
+
+
+- [[https://github.com/cansik/opencv-processing][opencv in processing git]]
+- i have a super basic proocessing patch running with some audio.
+- finish for the day. I'm super tired
+  ]
