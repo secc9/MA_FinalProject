@@ -532,7 +532,7 @@ CLOCK: <2024-05-21 Tue 15:00>--[2024-05-21 Tue 15:05] =>  0:05
 
 
 
-* NEXT 
+ 
 * Daily Work
 
 ** DONT FORGET TO CLOCK IN AND OUT EVERY DAY!
@@ -2744,11 +2744,45 @@ CLOCK: [2024-08-02 Fri 09:48]--[2024-08-02 Fri 13:10] =>  3:22
 * 2024-08-03 - Saturday
 
 
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-03 Sat 14:43]
+| Headline              | Time   |
+|-----------------------+--------|
+| *Total time*          | *4:22* |
+|-----------------------+--------|
+| 2024-08-03 - Saturday | 4:22   |
+#+END:
+
 
 :LOGBOOK:
-CLOCK: [2024-08-03 Sat 09:01]
+CLOCK: [2024-08-03 Sat 09:01]--[2024-08-03 Sat 13:23] =>  4:22
 :END:
 
 
 
 - more work on the openframeworks patch
+- the rasberry pi operates on an openGL3.1 so I'm not sure what I can do with it regarding shaders etc....
+  - not that I know that much about anything anyway
+  - [[https://www.khronos.org/files/opengles31-quick-reference-card.pdf][openGL3.1 Reference sheet]]
+- checking the ffmpeg app runInternalVid.sh for when it starts to break up
+  - started at 9.17am
+  - the camera stopped picking up
+  - restarted at 9.42am
+  - removed the shuffle frame for now and added more threshold to the amplify
+
+
+  - set at 10.41
+
+
+
+** 2024-08-04 - Sunday
+
+
+:LOGBOOK:
+CLOCK: [2024-08-04 Sun 12:27]
+:END:
+
+
+
+- make the amps and speakers
+  
