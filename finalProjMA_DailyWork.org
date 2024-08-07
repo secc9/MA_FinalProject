@@ -4,61 +4,65 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
 
 #+BEGIN: clocktable :scope file :maxlevel 5
-#+CAPTION: Clock summary at [2024-08-01 Thu 15:21]
-| Headline                   | Time      |       |
-|----------------------------+-----------+-------|
-| *Total time*               | *8d 2:01* |       |
-|----------------------------+-----------+-------|
-| Daily Work                 | 8d 2:01   |       |
-| \_  2024-05-16 - Thursday  |           |  3:52 |
-| \_  2024-05-17 - Friday    |           |  6:31 |
-| \_  2024-05-21 - Tuesday   |           |  4:01 |
-| \_  2024-05-23 - Thursday  |           |  3:21 |
-| \_  2024-05-27 - Monday    |           |  2:00 |
-| \_  2024-05-30 - May       |           |  1:30 |
-| \_  2024-06-01 - Saturday  |           |  1:10 |
-| \_  2024-06-03 - Monday    |           |  1:15 |
-| \_  2024-06-05 - Wednesday |           |  1:07 |
-| \_  2024-06-04 - Tuesday   |           |  0:20 |
-| \_  2024-06-07 - Friday    |           |  4:18 |
-| \_  2024-06-09 - Sunday    |           |  0:48 |
-| \_  2024-06-10 - Monday    |           |  5:20 |
-| \_  2024-06-11 - Tuesday   |           |  4:59 |
-| \_  2024-06-12 - Wednesday |           |  5:20 |
-| \_  2024-06-13 - Thursday  |           |  2:50 |
-| \_  2024-06-13 - Friday    |           |  7:47 |
-| \_  2024-06-23 - Sunday    |           |  3:14 |
-| \_  2024-06-24 - Monday    |           |  1:47 |
-| \_  2024-06-27 - Thursday  |           |  0:55 |
-| \_  2024-06-29 - Saturday  |           |  2:09 |
-| \_  2024-06-30 - Sunday    |           |  2:42 |
-| \_  2024-07-01 - Monday    |           |  3:15 |
-| \_  2024-07-02 - Tuesday   |           |  5:11 |
-| \_  2024-07-05 - Friday    |           |  0:28 |
-| \_  2024-07-07 - Sunday    |           |  0:01 |
-| \_  2024-07-09 - Tuesday   |           |  3:43 |
-| \_  2024-07-10 - Wednesday |           |  2:59 |
-| \_  2024-07-11 - Thursday  |           |  5:18 |
-| \_  2024-07-12 - Friday    |           |  4:15 |
-| \_  2024-07-13 - Saturday  |           |  5:31 |
-| \_  2024-07-14 - Sunday    |           |  2:17 |
-| \_  2024-07-15 - Monday    |           |  1:50 |
-| \_  2024-07-16 - Tuesday   |           |  5:14 |
-| \_  2024-07-17 - Wednesday |           |  5:48 |
-| \_  2024-07-18 - Thursday  |           |  6:45 |
-| \_  2024-07-19 - Friday    |           |  6:53 |
-| \_  2024-07-20 - Saturday  |           |  1:00 |
-| \_  2024-07-21 - Sunday    |           |  0:56 |
-| \_  2024-07-22 - Monday    |           |  8:44 |
-| \_  2024-07-23 - Tuesday   |           |  6:18 |
-| \_  2024-07-24 - Wednesday |           |  6:32 |
-| \_  2024-07-25 - Thursday  |           | 10:46 |
-| \_  2024-07-26 - Friday    |           |  3:26 |
-| \_  2024-07-28 - Sunday    |           |  7:30 |
-| \_  2024-07-29 - Monday    |           |  9:52 |
-| \_  2024-07-30 - Tuesday   |           |  4:01 |
-| \_  2024-07-31 - Wednesday |           |  5:54 |
-| \_  2024-08-01 - Thursday  |           |  2:18 |
+#+CAPTION: Clock summary at [2024-08-07 Wed 12:58]
+| Headline                   | Time       |       |
+|----------------------------+------------+-------|
+| *Total time*               | *8d 17:20* |       |
+|----------------------------+------------+-------|
+| Daily Work                 | 8d 7:34    |       |
+| \_  2024-05-16 - Thursday  |            |  3:52 |
+| \_  2024-05-17 - Friday    |            |  6:31 |
+| \_  2024-05-21 - Tuesday   |            |  4:01 |
+| \_  2024-05-23 - Thursday  |            |  3:21 |
+| \_  2024-05-27 - Monday    |            |  2:00 |
+| \_  2024-05-30 - May       |            |  1:30 |
+| \_  2024-06-01 - Saturday  |            |  1:10 |
+| \_  2024-06-03 - Monday    |            |  1:15 |
+| \_  2024-06-05 - Wednesday |            |  1:07 |
+| \_  2024-06-04 - Tuesday   |            |  0:20 |
+| \_  2024-06-07 - Friday    |            |  4:18 |
+| \_  2024-06-09 - Sunday    |            |  0:48 |
+| \_  2024-06-10 - Monday    |            |  5:20 |
+| \_  2024-06-11 - Tuesday   |            |  4:59 |
+| \_  2024-06-12 - Wednesday |            |  5:20 |
+| \_  2024-06-13 - Thursday  |            |  2:50 |
+| \_  2024-06-13 - Friday    |            |  7:47 |
+| \_  2024-06-23 - Sunday    |            |  3:14 |
+| \_  2024-06-24 - Monday    |            |  1:47 |
+| \_  2024-06-27 - Thursday  |            |  0:55 |
+| \_  2024-06-29 - Saturday  |            |  2:09 |
+| \_  2024-06-30 - Sunday    |            |  2:42 |
+| \_  2024-07-01 - Monday    |            |  3:15 |
+| \_  2024-07-02 - Tuesday   |            |  5:11 |
+| \_  2024-07-05 - Friday    |            |  0:28 |
+| \_  2024-07-07 - Sunday    |            |  0:01 |
+| \_  2024-07-09 - Tuesday   |            |  3:43 |
+| \_  2024-07-10 - Wednesday |            |  2:59 |
+| \_  2024-07-11 - Thursday  |            |  5:18 |
+| \_  2024-07-12 - Friday    |            |  4:15 |
+| \_  2024-07-13 - Saturday  |            |  5:31 |
+| \_  2024-07-14 - Sunday    |            |  2:17 |
+| \_  2024-07-15 - Monday    |            |  1:50 |
+| \_  2024-07-16 - Tuesday   |            |  5:14 |
+| \_  2024-07-17 - Wednesday |            |  5:48 |
+| \_  2024-07-18 - Thursday  |            |  6:45 |
+| \_  2024-07-19 - Friday    |            |  6:53 |
+| \_  2024-07-20 - Saturday  |            |  1:00 |
+| \_  2024-07-21 - Sunday    |            |  0:56 |
+| \_  2024-07-22 - Monday    |            |  8:44 |
+| \_  2024-07-23 - Tuesday   |            |  6:18 |
+| \_  2024-07-24 - Wednesday |            |  6:32 |
+| \_  2024-07-25 - Thursday  |            | 10:46 |
+| \_  2024-07-26 - Friday    |            |  3:26 |
+| \_  2024-07-28 - Sunday    |            |  7:30 |
+| \_  2024-07-29 - Monday    |            |  9:52 |
+| \_  2024-07-30 - Tuesday   |            |  4:01 |
+| \_  2024-07-31 - Wednesday |            |  5:54 |
+| \_  2024-08-01 - Thursday  |            |  2:18 |
+| \_  2024-08-02 Friday      |            |  5:33 |
+| 2024-08-03 - Saturday      | 9:46       |       |
+| \_  2024-08-04 - Sunday    |            |  2:33 |
+| \_  2024-08-07 - Monday    |            |  2:51 |
 #+END:
 
 
@@ -2744,14 +2748,7 @@ CLOCK: [2024-08-02 Fri 09:48]--[2024-08-02 Fri 13:10] =>  3:22
 * 2024-08-03 - Saturday
 
 
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2024-08-03 Sat 14:43]
-| Headline              | Time   |
-|-----------------------+--------|
-| *Total time*          | *4:22* |
-|-----------------------+--------|
-| 2024-08-03 - Saturday | 4:22   |
-#+END:
+
 
 
 :LOGBOOK:
@@ -2769,20 +2766,69 @@ CLOCK: [2024-08-03 Sat 09:01]--[2024-08-03 Sat 13:23] =>  4:22
   - the camera stopped picking up
   - restarted at 9.42am
   - removed the shuffle frame for now and added more threshold to the amplify
-
-
   - set at 10.41
 
 
 
 ** 2024-08-04 - Sunday
 
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-04 Sun 23:24]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:33* |      |
+|-------------------------+--------+------|
+| \_  2024-08-04 - Sunday |        | 2:33 |
+#+END:
+
 
 :LOGBOOK:
-CLOCK: [2024-08-04 Sun 12:27]
+CLOCK: [2024-08-04 Sun 12:27]--[2024-08-04 Sun 15:00] =>  2:33
 :END:
 
 
 
 - make the amps and speakers
-  
+- I want to make each speaker have its own box.
+- 4 speakers
+- 4 boxes
+- 2 amps
+- maybe the 2 amps in a small box
+- then the 
+
+
+
+
+** 2024-08-07 - Monday
+
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-07 Wed 12:55]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:51* |      |
+|-------------------------+--------+------|
+| \_  2024-08-07 - Monday |        | 2:51 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-07 Wed 14:06]
+CLOCK: [2024-08-07 Wed 09:59]--[2024-08-07 Wed 12:50] =>  2:51
+:END:
+
+
+- WORK ON THE ULTRASONIC SENSORS
+  - work on timetable v03
+  - get 3 more distancce sensors up and running.
+  - working on the arduino
+  - see about a multiple sensor sketch
+  - figure out how to get 4x sensor data into the sketch
+  - calculate the 4 sensor time data into one block of time.
+  - start to make a table of all the things i need to input
+  - OK. I have 4 input sensors running,
+  - maybe make up a schematic for the arduino
+  - 
+  - 
+- Fill out the form for the info needed for exhibition
+- this afternoon. Open frameworks
