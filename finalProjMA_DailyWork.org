@@ -2799,21 +2799,21 @@ CLOCK: [2024-08-04 Sun 12:27]--[2024-08-04 Sun 15:00] =>  2:33
 
 
 
-** 2024-08-07 - Monday
+** 2024-08-07 - Wednesday
 
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2024-08-07 Wed 12:55]
+#+CAPTION: Clock summary at [2024-08-07 Wed 17:07]
 | Headline                | Time   |      |
 |-------------------------+--------+------|
-| *Total time*            | *2:51* |      |
+| *Total time*            | *5:52* |      |
 |-------------------------+--------+------|
-| \_  2024-08-07 - Monday |        | 2:51 |
+| \_  2024-08-07 - Monday |        | 5:52 |
 #+END:
 
 
 :LOGBOOK:
-CLOCK: [2024-08-07 Wed 14:06]
+CLOCK: [2024-08-07 Wed 14:06]--[2024-08-07 Wed 17:07] =>  3:01
 CLOCK: [2024-08-07 Wed 09:59]--[2024-08-07 Wed 12:50] =>  2:51
 :END:
 
@@ -2832,3 +2832,67 @@ CLOCK: [2024-08-07 Wed 09:59]--[2024-08-07 Wed 12:50] =>  2:51
   - 
 - Fill out the form for the info needed for exhibition
 - this afternoon. Open frameworks
+
+
+** 2024-08-08 - Thursday
+
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-08 Thu 12:24]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *2:22* |      |
+|---------------------------+--------+------|
+| \_  2024-08-08 - Thursday |        | 2:22 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-08 Thu 13:30]--[2024-08-08 Thu 16:14] =>  2:44
+CLOCK: [2024-08-08 Thu 10:02]--[2024-08-08 Thu 12:24] =>  2:22
+:END:
+
+
+- carry on with the tracking software
+  - things to do
+  - change the total cumulative duration to days, hours and mins
+  - add in money spent
+  - items bought
+  - hours tables
+  - my hours worked
+  - figure out how to calculate all this into some meaningful information
+  - 
+  - 
+  - some other things to add?
+  - total costs??
+    - my wage * total hours + total costs
+    - the same with the min wages
+    - 
+    - 
+    - then somehting about how much dwell time to calculate
+    - how much is the dwell time wrth????
+    - look into dwell time
+
+
+- this afternoon more openFrameworks
+
+
+
+give it a title
+
+
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
