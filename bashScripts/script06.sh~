@@ -1,0 +1,60 @@
+#this is my supercool filter of fun
+
+
+# first up take video from the internal cam
+# make 2 directories called vid_frames and outputs
+mkdir s06
+mkdir s06/vid_frames
+mkdir s06/outputs
+
+# get imagesnap to take 100 images at 30fps
+rpicam-vid -t 10  --width 1280 --height 720 --vflip -o 
+
+#stitch together in ffmpeg
+ffmpeg -framerate 30 -i vid_frames/snapshot-%05d.jpg -c:v libx264 -pix_fmt yuv420p outputs/capture.mov
+
+
+# delete screenshots
+rm -rf vid_frames/snapshot-*
+#remove the frames dir
+rm -r vid_frames
+
+
+##############################
+
+## next up lets add some filter
+ffmpeg -i outputs/capture.mov -vf "hue=h=54:s=10:b=-4,pixelize=w=60:h=60:m=max:p=2" outputs/hueFx.mp4
+
+# now do the grid layout
+# gridded image
+ffmpeg -i outputs/hueFx.mp4 -vf "crop=iw/2:ih/2:0:0" outputs/crop-0.mp4      #top-left
+ffmpeg -i outputs/hueFx.mp4 -vf "crop=iw/2:ih/2:iw/2:0" outputs/crop-1.mp4  #top-right
+ffmpeg -i outputs/hueFx.mp4 -vf "crop=iw/2:ih/2:0:ih/2" outputs/crop-2.mp4     #bottom-left
+ffmpeg -i outputs/hueFx.mp4 -vf "crop=iw/2:ih/2:iw/2:ih/2" outputs/crop-3.mp4     #bottom-right
+
+#rotate mp4
+ffmpeg  -i outputs/crop-0.mp4 -vf "transpose=1, transpose=1" outputs/crop-0-rotate.mp4 -y
+ffmpeg  -i outputs/crop-1.mp4 -vf "transpose=0, transpose=1" outputs/crop-1-rotate.mp4 -y
+ffmpeg  -i outputs/crop-2.mp4 -vf "transpose=1, transpose=0" outputs/crop-2-rotate.mp4 -y
+
+
+#build gridded image
+ffmpeg -i outputs/crop-0-rotate.mp4 -i outputs/crop-1-rotate.mp4 -i outputs/crop-2-rotate.mp4 -i outputs/crop-3.mp4 \
+       -filter_complex \
+       "[2:v][0:v]hstack=inputs=2[top];\
+	[3:v][1:v]hstack=inputs=2[bottom];\
+	[top][bottom]vstack=inputs=2[v]"\
+       -map "[v]" \
+       outputs/grid-2x2.mp4
+
+
+
+
+#play the file
+
+ffplay -i outputs/grid-2x2.mp4
+
+# remove the unused mmp4's
+
+rm outputs/crop*
+rm outputs/hueFx.mp4

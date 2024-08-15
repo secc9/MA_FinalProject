@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+
+#for (( i = 0 ; i <= 10 ; i++ )) ; do ./script01.sh ; done
+
+
+./script01.sh
+./script02.sh
+./script03.sh
+
+
+
