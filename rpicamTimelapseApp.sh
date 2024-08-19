@@ -1,6 +1,6 @@
-
-
 #!/bin/bash
+
+# moved bin bash line to top 230810
 
 
 # I want this script to capture a short video from the camera and then process the video in ffmpeg and then show that video and I want the script to loop and do this every n seconds≥
