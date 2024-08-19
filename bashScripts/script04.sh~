@@ -1,0 +1,27 @@
+#!/bin/bash
+
+
+
+#split into frames
+
+mkdir script04
+
+#take a vidoe
+
+rpicam-vid -t 5s --width 1280 --height 720 --vflip -o script04/vid01.mp4
+
+#split into frames
+ffmpeg -i script04/vid01.mp4 script04/frames-%02d.png
+
+rn=$((RANDOM 10 -10))
+# saturate 
+ffmpeg -i script04/frames-01.png -vf "hue=s=$rn" script04/fsat-001.png
+
+
+ffplay -i script04/fsat-001.png
+
+open script04
+
+sleep 10
+
+rm -rf script04
