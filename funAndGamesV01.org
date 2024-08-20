@@ -17,8 +17,114 @@ It's all fun and games untill you realise you are working for free
 
 * with writing I can interrogate ideas and thoughts, rearrange them, remove, add to them to make them stronger. I can also learn to reject ideas that are possibly substandard
 
-*
+* reading list
 
-The ideas for this exhibition began as a way for me to question how to display so many pieces of work I was making. Not in a way that I am prolific, but more in a way where I seemed to be churning through tutorial after tutorial in a manner to attempt to teach myself how to program by using graphics as a way of learning. I found myself working through tutorial after tutorial in a way that would help me memorise techniques etc whilst all the time producing image after image, animation after animation. My thoughts kept leading me to  "If I'm ever to display these in a gallery, how am I supposed to do that?" 
+** [[https://en.wikipedia.org/wiki/Artist%27s_Shit][Artists shit]]
+- [[https://en.wikipedia.org/wiki/Piero_Manzoni][Piero Manzoni]]
+  - relationship between art production and human production
+  - 
+** [[https://en.wikipedia.org/wiki/Commodity_fetishism][Commodity Fetishm]]
+** [[https://www.2ra.co/tmiwfull.html][Rachel Ara]]
+- [[https://www.2ra.co/uploads/2/6/8/6/26862532/whitechapel_gallery_catalogue.pdf][this musch I'm worth]]
+- [[https://www.2ra.co/tmiwfull.html]]
+  
+The ideas for this exhibition began as a way for me to question how to display so many pieces of work I was making. Not in a way that I am prolific, but more in a way where I seemed to be churning through tutorial after tutorial in a manner to attempt to teach myself how to program by using graphics as a way of learning. I found myself working through tutorial after tutorial in an attempt to  help me memorise techniques and get the language of programming into my fingers,  whilst all the time producing image after image, animation after animation. My thoughts kept leading me to  "If I'm ever to display these in a gallery, how am I supposed to do that?" Can I just put in a laptop and have it scroll through work? Here there are various issues at work, security, having your work machine in a space for a certain amount of time  whilst having no machine with you to work on? Buy a second machine at an exhorarant price for the reason of just exhibiting? All of this seemed crazy to me. Who is going to pay for this? Ultimatly it would be me. For me to be able to exhibit I would have to spend a lot of money. My lifestyle is such that I have to earn that money for myself. Was there a way for me to make this more affordable? How could I display multiple images simutaniously?
+
+My thinking went straight to using small, affordable and accsessable computers. Namely the Rasberry Pi. I'm very interested in this technology and the act getting a lot out of a small thing. I wanted to to use a rasberry pi with a small screen to display things on. I was questioned why not use/borrow some larger monitors but my reasoning for this was that I wanted to own the whole thing, have a way of using and storing them in a small space, still having the device after exhibition to work on new ideas with as well as ultimatly hopefully having a complete unit that may be able to sell in the future. 
+
+The cost of each unit complete was kind of expensive. Around £100 for a rasberry pi with accsessories and another £70 for the screen. Adding a new hdmi cable and a soundcard it was around £200 for a complete setup. This was relativly expensive as I was getting multiples of the unit, but still cheaper than multiple laptops.
+
+Here is the beggings of what are to eva=entually become the ideas for the project.
+What do I have to do to be able to create a project to be able to "compete for attention" in a computational arts program?
+
+
+** reasons for my choices?
+*** projects that are flashy
+- the preconception that the more technology the better a project is.
+- the wow factor.
+- I wanted to challange that.
+  I wnated people to think that the project was impressive by just looking at it. To be overwhelmed at its presence.
+- So far in my masters 'career' at exhibitions people seem to be impressed with things that are immersive, large, expensive, flashy, loud, shiny. People cannot help but be drawn to this.
+- I wanted in some way to use this. to be able to draw a viewer in with the shinyness of a project. but then realise over thime that actually nothing is happening. a few things are keeping their atttention.
+- its hard to not be involved in =this when you are surrounded by it.
+- is it possible to take a stance aginst everything happening around you whilst at the same time trying to be involved with it?
+- 
+
+
+
+*** the more screens the better?
+
+*** the more equiptment the better?
+
+*** how do i get the money to get these things whilst at the same time as paying for my rent, my masters program,  the cost of travel to London and back.
+
+*** do I move to london and uproot my entire family for my decision to persue an art degree?
+
+*** do we go from having a life of ease to a life of struggle that a move to the capital would have?
+
+*** who am I to think I can can just go ahead and do all of this? Put my partner back through financial struggle whilst I make triangles?
+
+*** the privalage people have being able to do this?
+
+*** to be able to live in a capital city whilst spending your time making art?
+
+*** to question where the money comes from?
+
+*** to question money?
+
+*** the middle/upper class assumption of talking about money is uncouth!
+
+*** I'm not sure if I'm so interested in the value of the art but more as the value of the artist. My working class background is all about labour in exchange for money. Thats it. Thats all there is. How am I creating wealth? Is the profit made equal to the loss in workers wages?
+
+*** how can you understand that if you have never had to go through that.
+
+*** the importance of understanding privalidge in regard to this topic is important. the whle "I worked serving ice cream for one summer" in between A level and uni  is a joke. Serve Ice cream for the next ten years of your life whilst not owning the means of production. Try that.
+
+*** I'm angry at that. and my brain cant let that go. 
+
+
+
+
+
+
+
+
+
+** how much is my time worth as an artist?
+
+** how can I have the viewer working for me?
+
+** is my time worth anything?
+
+** is money the only way to make this project worth anything?
+
+** are there any other tangable effectss at play whilst working on this?
+
+** what did I have to do to earn this money?
+
+** Am I actually an artist? or am I a worker?
+
+** I work so I can pay for my free time to be abke to have the psychological space to attempt to have ideas and create things.
+
+** i'm fortunate now, at 45 to be able to do this.
+
+** many years spent in dead end jobs with no ther option.
+
+** phycologically trapped in a cage 
+
+** may have degrees but if your brain only tells you that you can only do whatever it is,.....
+
+** fortunate to be able to have spare money for therapy
+
+** many people don't have that. 
+
+** Production is interesting.
+- production line
+- manufatcuring
+- 12 hour shifts
+- monotonous work
+- artist as a worker, not as someone who sits in an ivory tower
+- 
+
 
 

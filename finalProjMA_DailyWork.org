@@ -3099,9 +3099,18 @@ CLOCK: [2024-08-16 Fri 11:39]--[2024-08-16 Fri 14:01] =>  2:22
 
 ** 2024-08-19 - Monday
 
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-19 Mon 18:21]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *5:28* |      |
+|-------------------------+--------+------|
+| \_  2024-08-19 - Monday |        | 5:28 |
+#+END:
 
 
 :LOGBOOK:
+CLOCK: [2024-08-19 Mon 14:18]--[2024-08-19 Mon 17:21] =>  3:03
 CLOCK: [2024-08-19 Mon 11:18]--[2024-08-19 Mon 13:43] =>  2:25
 :END:
 
@@ -3113,4 +3122,18 @@ CLOCK: [2024-08-19 Mon 11:18]--[2024-08-19 Mon 13:43] =>  2:25
   - maybe something that takes the audio input and then does something with it?
   - install jack and supercollider
   - 
-    
+
+
+- oof. what a day
+
+
+- 
+
+
+** 2024-08-20 Tuesday
+
+
+:LOGBOOK:
+CLOCK: [2024-08-20 Tue 17:34]
+:END:
+
