@@ -15,6 +15,12 @@ int[] cumulativeDurations = new int[4];
 String filePath = "cumulativeDurations.txt";
 
 int totalHrs = 270;
+float hourlyRate = 18.00;//my houry rate
+float pencePerMinute; //pence per min
+
+float costOfProject = 752.38;
+
+
 
 void setup() {
 
@@ -32,6 +38,8 @@ void setup() {
   // Load cumulative durations from file
   loadCumulativeDurations();
 
+//calculate pence per min
+pencePerMinute = (hourlyRate * 100) /60; //convert houry rate to pence per min
 
 }
 
@@ -77,7 +85,7 @@ void draw() {
     int cumulativeSeconds = (cumulativeDuration / 1000) % 60;
     
    // text("Sensor " + (i + 1) + " Current Duration: " + currentMinutes + " mins " + currentSeconds + " secs", width / 2, height / 2 - 200 + i * 100-y);
-    text("Sensor " + (i + 1) + " Cumulative Duration-D-H-M-S: "+cumulativeDays+"."+cumulativeHours+"." + cumulativeMinutes + "." + cumulativeSeconds + ".", width / 2, height / 2 - 200 + i * 50-y);
+    text("Your time spent with me at sensor: " +cumulativeDays+"."+cumulativeHours+"." + cumulativeMinutes + "." + cumulativeSeconds + ".", width / 2, height / 2 - 200 + i * 50-y);
   }
   
   // calculate and Display total cumulative time in days hours mins
@@ -90,7 +98,7 @@ void draw() {
   int totalMinutes = (totalCumulativeDuration / (1000 * 60) % 60);
   int totalSeconds = (totalCumulativeDuration / 1000) % 60;
   
-  text("Total Cumulative Duration-D-H-M-S: "+ totalDays + "." + totalHours + "." + totalMinutes + "." + totalSeconds + ".", width / 2, height / 2 +30-y);
+  text("Your time spent with me in total: "+ totalDays + "." + totalHours + "." + totalMinutes + "." + totalSeconds + ".", width / 2, height / 2 +30-y);
 /*  
   // Debugging: Print durations to console every frame
   for (int i = 0; i < 4; i++) {
@@ -99,6 +107,12 @@ void draw() {
   }
 */
 //--------------------------------------------------
+
+
+//calculate total cost
+float totalCost = (totalCumulativeDuration / (1000 * 60)) * pencePerMinute / 100; //total cost in pounds
+
+
 
 // this is where I'll do the frmatting of my text etc
 int n = 40;
@@ -112,7 +126,7 @@ textSize(35);
 //total hours spent -- MAKE SURE TO UPDATE THIS TO REFLECT THE CORRECT AMOUNT AT THE END OF THE PROJECT
 text("Total hours spent on project: "+totalHrs, width/2, height/2-n-tY);
 // total cost
-text("Total cost of project: £752.38", width/2, height /2-tY);
+text("Total cost of project: £" + costOfProject, width/2, height /2-tY);
 //hourly rates
 text("My hourly rate in with current employer: £18.00", width/2, height/2+n-tY);
 text("Minimum wage over 21: £11.44[1]", width/2, height/2+n*2-tY);
@@ -133,11 +147,11 @@ int boxHeight = 800;
 int nTxt = 30;
 
 // Draw the red rectangles
-fill(255, 0, 0, 100);
+fill(255, 0, 0, 150);
 rect(boxLX, boxY, boxWidth, boxHeight);
 
 // box right profits (this code is not affected by the table)
-fill(255, 0, 0, 100);
+fill(255, 0, 0, 150);
 rect(600, boxY, boxWidth, boxHeight);
 
 fill(0);
@@ -152,7 +166,7 @@ String[] items = {
   "128GB SD Card",
   "RPi Camera v2",
   "HDMI Cables",
-  "ActiveCooler for PI5",
+  "PI5 ActiveCooler",
   "Heatsink for PI4",
   "PI Cooling Fan",
   "Stereo Amplifier",
