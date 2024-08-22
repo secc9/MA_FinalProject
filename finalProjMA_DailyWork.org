@@ -3160,7 +3160,7 @@ CLOCK: [2024-08-20 Tue 13:00]--[2024-08-20 Tue 17:48] =>  4:48
 
 
 :LOGBOOK:
-CLOCK: [2024-08-21 Wed 11:53]
+CLOCK: [2024-08-21 Wed 11:53]--[2024-08-21 Wed 20:00] =>  8:07
 :END:
 
 
@@ -3197,3 +3197,32 @@ Now, you can calculate the cost based on cumulative time spent. For instance, if
 
 
   
+** 2024-08-22 - Thursday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-22 Thu 20:08]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *7:57* |      |
+|---------------------------+--------+------|
+| \_  2024-08-22 - Thursday |        | 7:57 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-22 Thu 13:41]--[2024-08-22 Thu 19:08] =>  5:27
+CLOCK: [2024-08-22 Thu 12:50]--[2024-08-22 Thu 13:17] =>  0:27
+CLOCK: [2024-08-22 Thu 10:25]--[2024-08-22 Thu 12:28] =>  2:03
+:END:
+
+
+- what do I want to do?
+  - openframeworks pi
+  - do what?
+  - take a photo every n seconds.
+  - delete photo after every n mins
+  - load image into openframeworkd
+  - have a webcam in open frameworks
+  - blend between the two images
+  - with some effect
+  - 
