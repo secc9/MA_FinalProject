@@ -1,4 +1,5 @@
 
+
 It's all fun and games untill you realise you are working for free
 
 
@@ -19,7 +20,23 @@ It's all fun and games untill you realise you are working for free
 
 * reading list
 
+Reading 1.
+Notes: (see next section for Notes on Notes):
+Reading 2. 
+Notes:
+Reading 3.
+Notes:
+Reading 4. 
+Notes:
+Reading 5. 
+Notes:
+Reading 6. 
+Notes:
+Reading 7.
+Notes:
+
 ** [[https://en.wikipedia.org/wiki/Artist%27s_Shit][Artists shit]]
+
 - [[https://en.wikipedia.org/wiki/Piero_Manzoni][Piero Manzoni]]
   - relationship between art production and human production
   - 
@@ -124,7 +141,48 @@ What do I have to do to be able to create a project to be able to "compete for a
 - 12 hour shifts
 - monotonous work
 - artist as a worker, not as someone who sits in an ivory tower
-- 
+-
+-
+
+
+** and questions our romance with machines by fetishising technology.
+
+- fetishisng technology, Is more tech better?
+- commodity fetishism
+
+  
+- "Why should I divulge how the core price is arrived at? I’m never party to the way political systems work, or why bankers are paid so much. "
+  - https://www.2ra.co/tmiwfull.html
+    - I'm trying to do th eopposite of this. Rachel Ara is being complicit in these systems. By not allowing viewers to see the underlying processes she, as well as the polititiabs and bankers is trying to obsure processes that should be more transparent.
+
+- Why should the be transparent?
+  - transparency should be made so that viewers can be privy to information. What they do with that information is ultimatly up to them. The old cliche, KJNowledge is power comes into play here. Traditionally knowledge is witheld so that people without that power are kept in the dark. In the middle ages the people would go to the church to be read to by the only person who was educated. This person was the priest. He would read to a captive audience. So essenially the church could dictate what they thought people should know. It was only until people could begin to read for themselves that they could choose for themselves.
+    Essencially you are restricting the option of education by obsuring the fact that a thing exists.
+    This is Privalidge at work.
+Ara is using her privalage to obfuscate the underlying processes. Thereby attempting to make her work more myserious
+
+I am attempting to do the opposite, By making transparent my processes and costs, I am allowing the viewer a view into process that are usually hidden,  whilst at the same time letting them think for themselves regarding the acts of the artist.
+
+Friederike Sigler writes that "the heroes of art  were above all those who did not work, Rather it was thought that they wandered abou, observing, debating, thinking, drinking, sleeping (or staying up all night) and idling, until at a certain point in time and in some mysterious way, they transformed the sum total of their creatie energies into works of art" pg16 Work
+
+My working class upbringing has always been focussed on labour. My parents both worked. My father a sheet metal worker turned merchant navy chef turned odd jobber turned panel beater(toward the end of his short life owned their own busness: transport cafe, garage) until his death at the age of 46 from bowel cancer. My mother, a shop girl turned (the same as above) cafe worker, sales woman and finally cleaner. I was only allowed to drop out of school at 15 if I found work, so in an act of defience, I found two jobs whoich would see me wrkong from 9am until 3pm and then from 6 pm until 10 pm at the age of 15.
+There was never any other option. Get a trade or work in the post office with my step father. I opeted out. 
+
+There was never any "get a holiday job whilst waiting for university and then having a nice career. There was no career. only a sucession of dead end jobs. The option of bieng an artist at work, whilst being an artist on the side (Warhol, Lichenstien et all).
+
+
+My point is that to make this work do you have to be privaliged?
+The cost of computatinal art can be high. For me, my privalige is that , after many years of work, I now earn almost a decent amount of money working long hours at the weekend which allows me to purchase the things needed for the project. whilst simutaniusly giving me free time throught the week to be able to spend the amont of hours on this to only create what I created. I also see that it is my privalige as an artist that I have to point this out for the sake pf transparancy. Not all artists are fortunate enough to be able to do this. The fact that people dont have to struggle doenst nessecarily mean that their work is of less worth, but I do believe that this perpetuates the thinking that art isnt for anyone lower than the middle classes. 
 
 
 
+
+- "The new piece is on a much larger scale because people expect a spectacle, and I suppose in a sense I am giving it to them." RA
+- https://www.2ra.co/tmiwfull.html
+  - Ara agrees on the wole spectacle of art. Nowadays with computers we as a viewer are expecting to be entertained. Immersed. But For what? What is the reason?
+     We now live in a world where everything is at our fingertips, we can travel the planet on a whim, afford the best things, new clothes every week. new tech. and we just dispose of the old, with no thought to where it goes..
+     The whole exhibition is a microcosm of the free market. each work is a product. And they are pitted amongst each other. The currency is attention.  each work is of its own value. Does the amount of attention given to the work increase its value? Are there different forms of value? for me? Maybe. But my background brings everything to labour. my time in exchange for money. But back to the attention. How do you get someones attention, Especially in the time of quick dopamine hits of social media. Where you can see amazing things from across the globe in seconds. How do you compete with the things on the screen with the thigs you have made in real life. Going back to Ara's comment on spectacle we have to ask what a specacle is. Generally a spectacle is something like a  public event or show that is exciting to watch. Each time I come to London, I cycle past The Now building at Tottenham Courd Road intersection. A  huge Immersive art experience rammed full of people videoing their time there for proof that they went there. I guess that this is a modern day spectacle. Things like this are now part of everyday life. We as computaitional artists are also subject to this. We are part of the spectacle. We make the spectacle. And what if we don't? What if we refuse to do this?
+  Am I,  with my work buying into this? or am I trying to point out the problem? I have many screens with not much happening. So far people walk in and are "Wow, so many screens. It's so cool!" But that's it right?
+  Am I engaging in the act of spectacle? just to be able to take user data. Yes. That is one of the main points of the work. I wanted to have something 'flashy and cool' to keep  peoples attention. I dindt want the things that the viewer sees to have any kind of engaging thing they have to think about.
+
+  
