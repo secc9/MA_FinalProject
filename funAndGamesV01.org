@@ -44,30 +44,41 @@ Notes:
 ** [[https://www.2ra.co/tmiwfull.html][Rachel Ara]]
 - [[https://www.2ra.co/uploads/2/6/8/6/26862532/whitechapel_gallery_catalogue.pdf][this musch I'm worth]]
 - [[https://www.2ra.co/tmiwfull.html]]
+
   
-The ideas for this exhibition began as a way for me to question how to display so many pieces of work I was making. Not in a way that I am prolific, but more in a way where I seemed to be churning through tutorial after tutorial in a manner to attempt to teach myself how to program by using graphics as a way of learning. I found myself working through tutorial after tutorial in an attempt to  help me memorise techniques and get the language of programming into my fingers,  whilst all the time producing image after image, animation after animation. My thoughts kept leading me to  "If I'm ever to display these in a gallery, how am I supposed to do that?" Can I just put in a laptop and have it scroll through work? Here there are various issues at work, security, having your work machine in a space for a certain amount of time  whilst having no machine with you to work on? Buy a second machine at an exhorarant price for the reason of just exhibiting? All of this seemed crazy to me. Who is going to pay for this? Ultimatly it would be me. For me to be able to exhibit I would have to spend a lot of money. My lifestyle is such that I have to earn that money for myself. Was there a way for me to make this more affordable? How could I display multiple images simutaniously?
+The ideas for this exhibition began as a way for me to question how to display so many pieces of work I was making. Not in a way that I am prolific, but more in a way where I seemed to be churning through tutorial after tutorial in a manner to attempt to teach myself how to program by using graphics as a way of learning. I found myself working through tutorial after tutorial in an attempt to  help me memorise techniques and get the language of programming into my fingers,  whilst all the time producing image after image, animation after animation. My thoughts kept leading me to  "If I'm ever to display these in a gallery, how am I supposed to do that?" Can I just put in a laptop and have it scroll through work? Here there are various issues at work, security, having your work machine in a space for a certain amount of time  whilst having no machine with you to work on? Buy a second machine at an exhorarant price for the reason of just exhibiting? All of this seemed crazy to me. Who is going to pay for this? Ultimatly it would be me. For me to be able to exhibit I would have to spend a lot of money. My age and lifestyle is such that I have to earn that money for myself alongside paying for grown up things such as council tax, gas, electicity, food, petrol etc. Was there a way for me to make this more affordable? How could I display multiple images simutaniously?
 
 My thinking went straight to using small, affordable and accsessable computers. Namely the Rasberry Pi. I'm very interested in this technology and the act getting a lot out of a small thing. I wanted to to use a rasberry pi with a small screen to display things on. I was questioned why not use/borrow some larger monitors but my reasoning for this was that I wanted to own the whole thing, have a way of using and storing them in a small space, still having the device after exhibition to work on new ideas with as well as ultimatly hopefully having a complete unit that may be able to sell in the future. 
 
 The cost of each unit complete was kind of expensive. Around £100 for a rasberry pi with accsessories and another £70 for the screen. Adding a new hdmi cable and a soundcard it was around £200 for a complete setup. This was relativly expensive as I was getting multiples of the unit, but still cheaper than multiple laptops.
 
-Here is the beggings of what are to eva=entually become the ideas for the project.
-What do I have to do to be able to create a project to be able to "compete for attention" in a computational arts program?
+Above were the germ ideas of what was  eventually to become the ideas for the A project.
+
+A large component was what do I have to do to be able to create a project to be able to "compete for attention" in a computational arts program?
 
 
 ** reasons for my choices?
 *** projects that are flashy
-- the preconception that the more technology the better a project is.
-- the wow factor.
-- I wanted to challange that.
-  I wnated people to think that the project was impressive by just looking at it. To be overwhelmed at its presence.
+- i wanted to play with the preconception that the more technology the better a project is.
 - So far in my masters 'career' at exhibitions people seem to be impressed with things that are immersive, large, expensive, flashy, loud, shiny. People cannot help but be drawn to this.
+
+- the wow factor.
+  
 - I wanted in some way to use this. to be able to draw a viewer in with the shinyness of a project. but then realise over thime that actually nothing is happening. a few things are keeping their atttention.
-- its hard to not be involved in =this when you are surrounded by it.
+
+
+- during my first pop up show a fellow member of my cohort (Samule Albini) spent a little time with my work and then proceeded to ask me if the work was interactive. I replied that it was not and then he then gave me a disgusted look and walked away. This interaction made me believe that he was an idiot as well as understading that people are only interested in the spectacle. Who cares what it means as long as I can play with it and it does something.
+  This was another factor I wanted to play with.
+- I wanted to attempt to at least address these assumptions in my work
+
+- its hard to not be involved in =this when you are surrounded by it??? What does this mean?
+  
 - is it possible to take a stance aginst everything happening around you whilst at the same time trying to be involved with it?
 - 
+- I wanted people to think that the project was impressive by just looking at it. To be overwhelmed at its presence.
 
 
+** Some questions I wanted to address.
 
 *** the more screens the better?
 
@@ -95,7 +106,7 @@ What do I have to do to be able to create a project to be able to "compete for a
 
 *** how can you understand that if you have never had to go through that.
 
-*** the importance of understanding privalidge in regard to this topic is important. the whle "I worked serving ice cream for one summer" in between A level and uni  is a joke. Serve Ice cream for the next ten years of your life whilst not owning the means of production. Try that.
+*** the importance of understanding privalage in regard to this topic is important. the whle "I worked serving ice cream for one summer" in between A level and uni  is a joke. Serve Ice cream for the next ten years of your life whilst not owning the means of production. Try that.
 
 *** I'm angry at that. and my brain cant let that go. 
 
