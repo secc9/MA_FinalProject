@@ -1,5 +1,7 @@
 
+//my SC noises for It's all fun and games
 
+//run both patches
 s.boot;
 s.meter
 (
@@ -21,7 +23,6 @@ s.scope
 
 (
 
-//USE ME for show
 
 b = {Pan2.ar(
 	Mix(SinOsc.ar([SinOsc.kr(0.1234, 0, 100.42213,SinOsc.kr(0.0212, 0, 1, 300)),SinOsc.kr(SinOsc.kr(0.123, 1, 32, 102), 0.43,100.456, SinOsc.kr(10.12, 0, 12, 100))], //freq
