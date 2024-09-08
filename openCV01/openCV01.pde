@@ -1,4 +1,5 @@
 //fredrick olafsson udk160512 
+//https://github.com/redFrik/udk15-Surveillance_and_Analysis/tree/master/udk160512
 
 //-miniamal open cv example
 

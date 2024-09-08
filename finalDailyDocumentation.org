@@ -1,0 +1,2962 @@
+
+#+title: FinalProjectMA
+#+author: Ashley Sagar
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
+
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-23 Fri 11:58]
+| Headline                   | Time       |       |
+|----------------------------+------------+-------|
+| *Total time*               | *12d 0:12* |       |
+|----------------------------+------------+-------|
+| Daily Work                 | 8d 7:34    |       |
+| \_  2024-05-16 - Thursday  |            |  3:52 |
+| \_  2024-05-17 - Friday    |            |  6:31 |
+| \_  2024-05-21 - Tuesday   |            |  4:01 |
+| \_  2024-05-23 - Thursday  |            |  3:21 |
+| \_  2024-05-27 - Monday    |            |  2:00 |
+| \_  2024-05-30 - May       |            |  1:30 |
+| \_  2024-06-01 - Saturday  |            |  1:10 |
+| \_  2024-06-03 - Monday    |            |  1:15 |
+| \_  2024-06-05 - Wednesday |            |  1:07 |
+| \_  2024-06-04 - Tuesday   |            |  0:20 |
+| \_  2024-06-07 - Friday    |            |  4:18 |
+| \_  2024-06-09 - Sunday    |            |  0:48 |
+| \_  2024-06-10 - Monday    |            |  5:20 |
+| \_  2024-06-11 - Tuesday   |            |  4:59 |
+| \_  2024-06-12 - Wednesday |            |  5:20 |
+| \_  2024-06-13 - Thursday  |            |  2:50 |
+| \_  2024-06-13 - Friday    |            |  7:47 |
+| \_  2024-06-23 - Sunday    |            |  3:14 |
+| \_  2024-06-24 - Monday    |            |  1:47 |
+| \_  2024-06-27 - Thursday  |            |  0:55 |
+| \_  2024-06-29 - Saturday  |            |  2:09 |
+| \_  2024-06-30 - Sunday    |            |  2:42 |
+| \_  2024-07-01 - Monday    |            |  3:15 |
+| \_  2024-07-02 - Tuesday   |            |  5:11 |
+| \_  2024-07-05 - Friday    |            |  0:28 |
+| \_  2024-07-07 - Sunday    |            |  0:01 |
+| \_  2024-07-09 - Tuesday   |            |  3:43 |
+| \_  2024-07-10 - Wednesday |            |  2:59 |
+| \_  2024-07-11 - Thursday  |            |  5:18 |
+| \_  2024-07-12 - Friday    |            |  4:15 |
+| \_  2024-07-13 - Saturday  |            |  5:31 |
+| \_  2024-07-14 - Sunday    |            |  2:17 |
+| \_  2024-07-15 - Monday    |            |  1:50 |
+| \_  2024-07-16 - Tuesday   |            |  5:14 |
+| \_  2024-07-17 - Wednesday |            |  5:48 |
+| \_  2024-07-18 - Thursday  |            |  6:45 |
+| \_  2024-07-19 - Friday    |            |  6:53 |
+| \_  2024-07-20 - Saturday  |            |  1:00 |
+| \_  2024-07-21 - Sunday    |            |  0:56 |
+| \_  2024-07-22 - Monday    |            |  8:44 |
+| \_  2024-07-23 - Tuesday   |            |  6:18 |
+| \_  2024-07-24 - Wednesday |            |  6:32 |
+| \_  2024-07-25 - Thursday  |            | 10:46 |
+| \_  2024-07-26 - Friday    |            |  3:26 |
+| \_  2024-07-28 - Sunday    |            |  7:30 |
+| \_  2024-07-29 - Monday    |            |  9:52 |
+| \_  2024-07-30 - Tuesday   |            |  4:01 |
+| \_  2024-07-31 - Wednesday |            |  5:54 |
+| \_  2024-08-01 - Thursday  |            |  2:18 |
+| \_  2024-08-02 Friday      |            |  5:33 |
+| 2024-08-03 - Saturday      | 3d 16:38   |       |
+| \_  2024-08-04 - Sunday    |            |  2:33 |
+| \_  2024-08-07 - Wednesday |            |  5:52 |
+| \_  2024-08-08 - Thursday  |            |  6:11 |
+| \_  2024-08-09 - Friday    |            |  3:49 |
+| \_  2024-08-10 - Saturday  |            |  3:14 |
+| \_  2024-08-11 - Sunday    |            |  4:17 |
+| \_  2024-08-12 - Monday    |            |  5:17 |
+| \_  2024-08-13 - Tuesday   |            |  7:28 |
+| \_  2024-08-13 - Wednesday |            |  8:21 |
+| \_  2024-08-13 - Thursday  |            |  8:04 |
+| \_  2024-08-16 - Friday    |            |  5:47 |
+| \_  2024-08-19 - Monday    |            |  5:28 |
+| \_  2024-08-20 Tuesday     |            |  4:48 |
+| \_  2024-08-21 - Wednesday |            |  8:07 |
+| \_  2024-08-22 - Thursday  |            |  7:57 |
+| \_  2024-08-23 - Friday    |            |  1:25 |
+#+END:
+
+
+
+
+
+
+* START HERE WITH ALL YOUR WORK
+
+
+* many small screens - This is the MA final project
+
+*** [[id:3564EC51-9AAE-4DB1-AD1A-71971217543A][AudioVisual]]
+
+Many screens. each with a single applicaiton.
+Shown almost like ono's instruction poems.
+each screen is one application
+- How are you supposed to show little scripts that you make????
+-
+  
+  
+  
+- each one on its own board ang Headphones
+- work out the language.
+  super simple
+- work out what board I can port to
+  - AFFORDABILITY
+- screens to display
+- cost of each unit?
+- Doocument the process of what I had to do to pay for the things I had to buy
+- What I have to do as labour to be able to pay for the parts of a project to be able to show it.
+- How amny hrs worked. what kind of work I did = what cash I made and what I spent it on.
+- WHY?
+  - I'm not rich.
+  - I have to work to support my art.
+  - Working class artists have a distinct disadvantage
+  - the cost of the production of art is hidden away. is uncouth
+  - Labor is a fact.
+  - manual/paid labour
+  - art labour
+  - laboured twice to be able to show the work
+- [[https://thepihut.com/collections/mini-displays-for-raspberry-pi][screens The Pi Hut]]
+- Transparacy
+- WHAT TO SHOW?
+- [[id:45B645F6-02E0-409E-8F0F-8BA7832F91DF][computationalFormAndProcess]] Look at week 7 Emergence
+- look at some of the [[id:D176697C-50EA-4C20-985D-E37CD1D5AB59][pfad]] stuff. Its possible open frameworks can run on a rasberry pi alongside supercollider
+- Ethnomathematics
+- Simple geometry going to more difficult
+- how can I teach myself things through the act of visual programming??
+
+*** from owen
+- user experience
+  - finding a way making the audience feel the thing I'm feeling
+  - can I trick people into being a part of the system???
+    - can I use them for them for them labor
+    - how do I do this???
+  - target the audince
+  - how to reel them in???
+  - 
+
+
+- finding my voice
+- give myself the freedom to do more
+- 
+
+  - what am I trying to say to say with the double labor
+  - the explotain
+  - self exploitation
+    - 
+
+  - am I just saying thsi?
+    OR
+  - am I going to make the audence be complicit in the process
+
+- how can I turn the atention into data that can be explressed as a mesure of labout
+  - can I make them do something without their knowlege
+- Engagment
+- how important is the attention to what i'm saying?
+  - correlation between the time spent making to the time spent veiwing
+
+  - devaluing the labor
+
+  - saul williams
+
+  - 
+
+*** the moniac
+
+
+
+
+* [[id:C7FF7F9D-2EF8-4853-A0EB-202EF5319D6A][Architecture]]
+
+
+* [[id:59782222-C03B-4ED1-9DF0-51733AF3C989][supercollider]]
+
+* [[id:3564EC51-9AAE-4DB1-AD1A-71971217543A][AudioVisual]]
+
+
+
+* Links I'm using for references and help etc
+
+- [[https://github.com/redFrik/supercolliderStandaloneRPI64?tab=readme-ov-file][RedFrik SuperCollider to PI gitRepo]]
+  - sudo apt-get update
+  - sudo apt-get upgrade
+  - sudo apt-get dist-upgrade
+  - sudo apt-get install qjackctl libqt5quick5 libqt5opengl5
+  - 
+- [[https://www.raspberrypi-spy.co.uk/2019/06/using-a-usb-audio-device-with-the-raspberry-pi/][rasberrypi audio device]]
+- [[https://www.raspberrypi.com/documentation/computers/remote-access.html][Rasberry pi remote access]]
+  - [[https://www.raspberrypi.com/documentation/computers/remote-access.html#enable-the-ssh-server][connect to ssh]]
+  - [[https://www.raspberrypi.com/documentation/computers/remote-access.html#connect-to-an-ssh-server][connect to ssh server]]
+  - [[https://www.raspberrypi.com/documentation/computers/remote-access.html#vnc][vnc access to pi]]
+  - [[https://www.raspberrypi.com/documentation/services/connect.html][RPI connect]]
+- [[https://openframeworks.cc/setup/raspberrypi/raspberry-pi-getting-started/][openFrameworks for Rasberry PI]]
+
+
+
+- [[https://www.youtube.com/watch?v=nobWeGycSe8&t=85s][videoArt with ffmpeg youtube]]
+- [[https://www.youtube.com/watch?v=Xm1qooUNELM&t=105s][hellocatfoodYT]]
+- [[https://www.hellocatfood.com/motion-interpolation-for-glitch-aesthetics-using-ffmpeg-part-0/][Hellocatfood motionInterpolatin]]
+
+
+
+- [[https://www.gov.uk/government/publications/minimum-wage-rates-for-2024][minimum wage rates uk 2024 gov.uk]]
+- [[https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2021][median hourly earnings uk gov.uk]]
+- [[https://www.statista.com/statistics/802108/hourly-pay-employees-in-the-uk/][median hourlay workers full time employees]]
+
+
+
+
+#+BEGIN: clocktable :scope subtree :maxlevel 4
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:23]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
+
+
+
+
+
+
+
+* Budget/Purchasing
+:LOGBOOK:
+CLOCK: <2024-05-21 Tue 15:00>--[2024-05-21 Tue 15:05] =>  0:05
+:END:
+
+| item                                  | quantity |   cost per unit £ |        total cost | owned before project start |   |   |
+|---------------------------------------+----------+-------------------+-------------------+----------------------------+---+---|
+| Rasberry PI 1                         |        1 | I cannot remember | I cannot remember | yes                        |   |   |
+| Rasberry PI 4                         |        1 |                72 |                72 | yes                        |   |   |
+| Rasberry PI 5                         |        3 |             76.80 |             230.4 | no                         |   |   |
+| RPI PSU                               |        4 |             11.60 |              46.4 | no                         |   |   |
+| GeekPi 7 Touchscreen                  |        4 |             59.99 |            239.96 | no                         |   |   |
+| Dynamode USB Soundcard                |        3 |              3.69 |             11.07 | no                         |   |   |
+| TP link network switch                |        1 |             19.99 |             19.99 | no                         |   |   |
+| Sandisk 128GB sd card                 |        3 |             10.99 |             32.97 | no                         |   |   |
+| Rasberry pi Camera module v2          |        1 |             10.40 |              10.4 | no                         |   |   |
+| HDMI Cables                           |        3 |             10.19 |             30.57 | no                         |   |   |
+| Active Cooler for PI5                 |        3 |              4.80 |              14.4 | no                         |   |   |
+| 4-piece heatsink for PI4              |        1 |              2.00 |                2. | no                         |   |   |
+| pi cooling fan                        |        1 |              3.00 |                3. | no                         |   |   |
+| 3W+3W Class D Stereo Amplifier Module |        2 |              0.61 |              1.22 |                            |   |   |
+| Loudspeaker 8-Ohm                     |        4 |              1.30 |               5.2 |                            |   |   |
+| HY-SRF05 Ultrasonic Range Finder      |        4 |               2.2 |               8.8 |                            |   |   |
+| Arduino                               |        1 |                24 |                24 |                            |   |   |
+|                                       |          |                   |                 0 |                            |   |   |
+|                                       |          |                   |                 0 |                            |   |   |
+|                                       |          |                   |                 0 |                            |   |   |
+|                                       |          |                   |                 0 |                            |   |   |
+|                                       |          |        Total cost |            752.38 |                            |   |   |
+#+TBLFM: $4=$2*$3 :: @23$4 = @3$4+@4$4+@5$4+@6$4+@7$4+@8$4+@9$4+@10$4+@11$4+@12$4+@13$4+@14$4+@15$4+@16$4+@17$4+@18$4
+
+
+
+
+
+
+
+ 
+* Daily Work
+
+** DONT FORGET TO CLOCK IN AND OUT EVERY DAY!
+
+Here lies my daily work diary of trying to get through this project.
+
+I should put here the to do lists of things I should reach/hit/need to do etc
+
+*** TODO Get SuperCollider onto a rasberry pi
+*** TODO Get a screen for the PI
+*** TODO make graphics and audio for the pi to show
+*** TODO figure out a way to display it
+*** TODO what graphics???
+*** TODO Moodboard
+*** TODO think about getting a switch box for networking.
+
+
+
+
+** 2024-05-16 - Thursday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:24]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *3:52* |      |
+|---------------------------+--------+------|
+| \_  2024-05-16 - Thursday |        | 3:52 |
+#+END:
+
+
+
+:LOGBOOK:
+CLOCK: [2024-05-16 Thu 16:52]--[2024-05-16 Thu 17:02] =>  0:10
+CLOCK: [2024-05-16 Thu 13:00]--[2024-05-16 Thu 16:42] =>  3:42
+:END:
+
+
+ok
+Here is the first day on my project.
+things I need to do
+*** TODO set up a rasberry pi
+- [[https://vimeo.com/397466041][redFrik vimeo check]]
+- [ ] Currently formatting a rasberry pi 4
+  - LIST OF THIGS TO DO TO PI
+  - [ ] sudo apt-get update
+  - [ ] sudo apt-get upgrade
+  - [ ] sudo apt-get dist-upgrade
+  - [ ] sudo apt-get install qjackctl libqt5quick5 libqt5opengl5
+  - [ ] git clone https://github.com/redFrik/supercolliderStandaloneRPI64 --depth 1
+  
+- [ ] need to update
+- [ ] run chmod 0700  /run/user/1000/ to fix the q
+
+  Ok. I'm stuck
+  SuperCollider library has not been compiled successfully
+
+
+
+- Soooo. I manageged to just get SuperCollider running by running the command
+  - sudo apt-get install supercollider.
+
+- This installs supercollider 3.13.0 and it runs fine.
+- the sound is horrible
+- I do have an old usb mbox 2. maybe I can get that to work for now?
+- OK
+- I got the sound working by setting up a connection in Jack jack
+- End of day.
+- Ii got superCollider running on a rasberry pi.
+- Currently the soundcard is my mbox 2.
+- I will need to buy some kind of tiny usb soundcard
+- I will have to set up that in jack
+- I can get a window running.
+*** 
+*** DONE get supercollider on it
+*** DONE get it to make sound
+*** TODO how about getting scGraph on in
+*** TODO openframeworks.....
+*** DONE check email from Rob.
+- no email back yet
+
+*** DONE Make todo list for tomorrow
+*** NEXT update github
+*** NEXT journal
+i think today went ok. I feel as thougj I maybe wasted some time on the redfrik setup, but that's ok. Its because of him that I'm even thinking of doing this project.
+I'm still a little stuck on the graphics side of things.... What do I want to do???
+I think I just need to start making things.
+Work through the visualising book i have. see how that goes.
+Just get up every day and make work. This is already a good start. You have a working concept (apart from the screen)
+
+
+
+
+** 2024-05-17 - Friday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:24]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *6:31* |      |
+|-------------------------+--------+------|
+| \_  2024-05-17 - Friday |        | 6:31 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-05-17 Fri 14:29]--[2024-05-17 Fri 17:54] =>  3:25
+CLOCK: [2024-05-17 Fri 10:32]--[2024-05-17 Fri 13:38] =>  3:06
+:END:
+
+*** TODO empty bin
+*** TODO set up ssh
+- [[https://www.raspberrypi.com/documentation/computers/remote-access.html][remote access RPI]]
+- router address
+  - http://192.168.1.254
+  - pi4 address 192.168.1.174
+  - pi5 address 192.168.1.132
+
+
+1. make sure ssh is enabled in pi
+2. open a terminal
+3. ssh<ashleysagar>@<rasberrypiIP>
+
+
+*** via VNC
+run TigerVNC on mac and view screen on mac.
+- change keyboard to macbookpro
+
+
+*** TODO make a git repo for this project
+*** DONE buy a soundcard
+*** DONE buy screen
+*** TODO run everything through ssh to avoid the double keyboard
+*** TODO make some graphics
+*** TODO do some reading
+*** TODO do a little bit of a journal to see how you are getting on/what you are feeling/any thoughts
+*** DONE set up a spreadsheet for costs/hours worked/things sold etc.
+- learn to make tables in org mode
+*** DONE [[https://openframeworks.cc/setup/raspberrypi/raspberry-pi-getting-started/][install openframeworks]]
+- waiting for the of to compile
+  - around 20 mins so far???
+*** DONE order another rasberry pi
+*** DONE order 2 screens
+*** DONE order 2 soundcards
+*** DONE put costs in a spreadsheet
+*** DONE look into making a diy ethernet splitter.
+- I purchased one instead
+
+- I need more space in this studio.
+- I need some kind of network switcher as the wifi is so bad in this room
+- DIY Ethernet splitter.
+  - have
+    - 1 ethernet cable from the router in one room to my studio
+    - meh
+    - just buy one and crack on
+
+
+*** Problems so far??
+- the wifi is too slow to access the vcn screen share
+- i'm not sure how I can run all the things from ssc as ssc is terminal only
+- my space is too small
+- 
+
+*** OK. Thoughts for the day
+I think I did a bit today. I was running down the rabbit hole of building a diy ethernet splitter but in the end decided to purchase one for £20. it has 8 ports. fuck it.
+I bought a Rasberry PI 5. 2 x 7" touchscreens for the PI's. I also picked up a couple of very cheap usb soundcards for the pi's.
+As far as software supercollider runs fine on it. I managed to also install open frameworks on the RP as well. RThis is super cool. I wonder if its possible to then install SCGraph next????
+
+The problem at the moment is even though I can build examples, how do I start to make my own??
+I downloaded emacs and codeblocks on the PI aswell.
+
+I managed to make a small budget purcheses table for the costs of everything.
+I need to learn tables as I need to start working out calculations.
+
+I spent some time trying to figure out ssh and vcn to control the pi from my macbook but the internet is crap in this room, hence purchasing the network switcher.
+
+I need to figure out a clean way to do all of this. the two screens mouse thing is annoying. It would be nice if vcn is fast enough to program through that.
+
+Another option could be to scp transfer files I write on the mac to the PI and run them there.
+
+I would really like it if I could just scp it all through terminal, but I dont think that is an option????
+
+do tomorrows todo list.
+
+
+
+
+** 2024-05-18 - Saturday
+
+
+*** TODO maybe just look at open frameworks.
+*** TODO try look at scgraph.
+
+
+** 2024-05-21 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:32]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *4:01* |      |
+|--------------------------+--------+------|
+| \_  2024-05-21 - Tuesday |        | 4:01 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-05-21 Tue 15:05]--[2024-05-21 Tue 16:30] =>  1:25
+CLOCK: [2024-05-21 Tue 11:07]--[2024-05-21 Tue 13:43] =>  2:36
+:END:
+
+
+
+*** DONE set up PI5
+- got some wierd behavour via ssh
+- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ED25519 key sent by the remote host is
+SHA256:aEGTXV87mt3+J7wssguwx7Hg1w6+KLUTBRmK7it3sxU.
+Please contact your system administrator.
+Add correct host key in /Users/ashleysagar/.ssh/known_hosts to get rid of this message.
+Offending ED25519 key in /Users/ashleysagar/.ssh/known_hosts:10
+Host key for 192.168.1.132 has changed and you have requested strict checking.
+Host key verification failed.
+
+- I'm reformatting the PI5 HD to start again instead of working out what I did wrong.
+- Ok. solution found
+  - pop this into your terminal on the mac if this happens again
+  - ssh-keygen -R <ip address you are sshing to>
+
+  
+*** TODO install SC
+- having some problems now since the attachment of the screen.
+- [ ] 
+*** TODO install OF
+*** TODO st up ssh
+*** TODO look at making some visuals
+*** DONE clock in
+*** TODO clock out
+
+- oof
+  - many problems now with the soundcard situation since installing these screens
+  - SuperCollider will no longer run on the pi for some reason.
+  - I'm going to reformat the pi4 and start again
+- I also installed RealVNC Viewr.
+  - much better than tiger. But I only have a 14 day trial and will have to pay a yearly sub fee :/
+
+
+- ok. Done for the day.
+- problems with supercollider on both machines. also with qjack.
+- not sure whats going on from saturday to today????
+  
+
+
+
+** 2024-05-23 - Thursday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:32]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *3:21* |      |
+|---------------------------+--------+------|
+| \_  2024-05-23 - Thursday |        | 3:21 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-05-23 Thu 14:54]--[2024-05-23 Thu 18:15] =>  3:21
+:END:
+
+
+*** 
+*** TODO reformt pi 4 
+*** TODO follow through redFrik video for install
+- hopefully I don't get those problems I had on monday
+- OK. after a couple of reformats, I finally got it working.
+- followed the steps above. but also installed the stuff from the pi gui as well.]
+- dont clone the git supercollider
+- for some reason the pi 5 isnt wanting to play with supercollider
+  
+I think I'm done for today.
+I had a pretty shitty day at uni yesterday.
+lots of "Critisim"
+
+is there anything that is of use???
+i'm not sure.
+just some ego's really.
+
+
+
+
+** 2024-05-27 - Monday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:32]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:00* |      |
+|-------------------------+--------+------|
+| \_  2024-05-27 - Monday |        | 2:00 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-05-27 Mon 20:02]--[2024-05-27 Mon 22:02] =>  2:00
+:END:
+
+
+- [[https://www.howtogeek.com/66438/how-to-easily-access-your-home-network-from-anywhere/][Working out how to connect to my rasberry pis from outside my home]]
+
+
+
+
+** 2024-05-28 - Tuesday
+
+
+** 2024-05-29 - Wednesday
+
+** 2024-05-30 - May
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline             | Time   |      |
+|----------------------+--------+------|
+| *Total time*         | *1:30* |      |
+|----------------------+--------+------|
+| \_  2024-05-30 - May |        | 1:30 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-05-30 Thu 09:00]--[2024-05-30 Thu 10:30] => 1:30
+:END:
+
+
+- So I fucked up I think.
+  I brought a rasberry pi with me but I have no screen and no keyboard for it. I thought that I could just ssh into it straight from my laptop but I cant. I dont know how to find the ipaddress of it from this side. I'm currently on a plane with no internet so I cant find out how to do it. I need a rasberry pi docs on my laptop to use offline for sure.
+  maybe I do have something???
+  
+
+
+
+
+** 2024-06-01 - Saturday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *1:10* |      |
+|---------------------------+--------+------|
+| \_  2024-06-01 - Saturday |        | 1:10 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-01 Sat 22:21]--[2024-06-01 Sat 22:25] =>  0:04
+CLOCK: [2024-06-01 Sat 20:16]--[2024-06-01 Sat 20:22] =>  0:06
+CLOCK: [2024-06-01 Sat 09:30]--[2024-06-01 Sat 10:30] => 1:00
+:END:
+
+
+- Doing some IXI supercollider tutorials 01.
+  basic stuff.
+
+
+
+
+
+** 2024-06-03 - Monday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *1:15* |      |
+|-------------------------+--------+------|
+| \_  2024-06-03 - Monday |        | 1:15 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-03 Mon 19:17]--[2024-06-03 Mon 19:21] =>  0:04
+CLOCK: [2024-06-03 Mon 15:28]--[2024-06-03 Mon 15:44] =>  0:16
+CLOCK: [2024-06-03 Mon 15:00]--[2024-06-03 Mon 15:21] =>  0:21
+CLOCK: [2024-06-03 Mon 15:00]--[2024-06-03 Mon 15:00] =>  0:00
+CLOCK: [2024-06-03 Mon 10:05]--[2024-06-03 Mon 10:19] =>  0:14
+CLOCK: [2024-06-03 Mon 09:43]--[2024-06-03 Mon 10:03] =>  0:20
+:END:
+continuing wwith the ixi tutorials
+
+
+
+** 2024-06-05 - Wednesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *1:07* |      |
+|----------------------------+--------+------|
+| \_  2024-06-05 - Wednesday |        | 1:07 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-05 Wed 11:10]--[2024-06-05 Wed 12:00] =>  0:50
+CLOCK: [2024-06-05 Wed 10:44]--[2024-06-05 Wed 11:01] =>  0:17
+:END:
+
+
+** 2024-06-04 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *0:20* |      |
+|--------------------------+--------+------|
+| \_  2024-06-04 - Tuesday |        | 0:20 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-04 Tue 12:38]--[2024-06-04 Tue 12:43] =>  0:05
+CLOCK: [2024-06-04 Tue 10:22]--[2024-06-04 Tue 10:37] =>  0:15
+:END:
+
+More IXI tutorials.
+make a little routine
+
+
+** 2024-06-07 - Friday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *4:18* |      |
+|-------------------------+--------+------|
+| \_  2024-06-07 - Friday |        | 4:18 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-07 Fri 17:59]--[2024-06-07 Fri 21:00] =>  3:01
+CLOCK: [2024-06-07 Fri 14:29]--[2024-06-07 Fri 14:33] =>  0:04
+CLOCK: [2024-06-07 Fri 13:11]--[2024-06-07 Fri 14:24] =>  1:13
+:END:
+
+
+- more ixi and a bit of fedfrik tutorials
+- made a basic hours table.
+  - need to find out wages etc
+
+** 2024-06-09 - Sunday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *0:48* |      |
+|-------------------------+--------+------|
+| \_  2024-06-09 - Sunday |        | 0:48 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-09 Sun 18:15]--[2024-06-09 Sun 19:03] =>  0:48
+:END:
+
+
+** 2024-06-10 - Monday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *5:20* |      |
+|-------------------------+--------+------|
+| \_  2024-06-10 - Monday |        | 5:20 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-10 Mon 16:28]--[2024-06-10 Mon 17:33] =>  1:05
+CLOCK: [2024-06-10 Mon 15:33]--[2024-06-10 Mon 16:07] =>  0:34
+CLOCK: [2024-06-10 Mon 15:14]--[2024-06-10 Mon 15:22] =>  0:08
+CLOCK: [2024-06-10 Mon 10:43]--[2024-06-10 Mon 14:16] =>  3:33
+:END:
+
+*** Today is the first day back from holidays and in the studio
+- did some more work through the Thor IXI manual
+- [[https://leanpub.com/ScoringSound/read#leanpub-auto-chapter-3---controlling-the-server][on chapter 3]]
+- beginning shifting little scripts over to the PI4
+- keep looking at concrete poetry.
+  - I think theres something here with that?
+  - manipulating lists.
+  - maybe syncing it to audio
+- I need to be looking into how to making a script that analizes my time??
+  
+
+** 2024-06-11 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:31]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *4:59* |      |
+|--------------------------+--------+------|
+| \_  2024-06-11 - Tuesday |        | 4:59 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-11 Tue 18:04]--[2024-06-11 Tue 18:14] =>  0:10
+CLOCK: [2024-06-11 Tue 16:00]--[2024-06-11 Tue 17:00] =>  1:00
+CLOCK: [2024-06-11 Tue 10:03]--[2024-06-11 Tue 13:52] =>  3:49
+:END:
+
+
+- doing some more of the ixi tutorial. hitting guis now
+- going to install linux on the pi 5 and see if I can get SC running on Linux instead of RPI
+- I have supercollider on 2 rasberry pis.
+- I cannot vnc into the pi5 yet
+  
+- [[https://raspberrytips.com/tigervnc-server-on-ubuntu/][setting up vnc on ubuntu]]
+
+
+
+** 2024-06-12 - Wednesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:30]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *5:20* |      |
+|----------------------------+--------+------|
+| \_  2024-06-12 - Wednesday |        | 5:20 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-29 Sat 14:18]--[2024-06-29 Sat 14:18] =>  0:00
+CLOCK: [2024-06-12 Wed 14:17]--[2024-06-12 Wed 17:28] =>  3:11
+CLOCK: [2024-06-12 Wed 10:31]--[2024-06-12 Wed 12:40] =>  2:09
+:END:
+
+
+- yesterday I attempted to re install ubuntu as I couldnt get Tigervnc working on the PI.
+  - the install kept dfailing. I installed the pi os again. worked fine.
+  - this morning I'm putting the previous version of ubunto on the pi to see if that is any better?
+- ok. ubuntu 23.10 is installed and seems pretty stable
+- spending too much time on this arduinome I have and trying to get serialosc to work so I can get some info from it :/
+- made a gui.
+  think about making a gui to control sound drawing???
+- other thoughts for today??
+  - HID was about to be an interesting option but aparently its broken on linux
+  - maybe it works on the pi version?	I dount it though
+- too much time wasted on this arduinome. put it away
+- some time spent with guis.
+  - what could I do with gius???
+  - a playable machine maybe??
+  - with visualiser?
+  - draw sound and color?
+  - still need to look at making some chart situation
+
+
+
+** 2024-06-13 - Thursday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:30]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *2:50* |      |
+|---------------------------+--------+------|
+| \_  2024-06-13 - Thursday |        | 2:50 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-13 Thu 13:56]--[2024-06-13 Thu 16:46] =>  2:50
+:END:
+
+
+- HID Problems on both Pi's.
+- attempting to install SC from source. Rolling back to 3.12.
+- currently removing rasberry pi from the pi4 and installing ubuntu on it.
+- the pi 4 is having trouble with ubuntu installs  
+
+
+** 2024-06-13 - Friday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:30]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *7:47* |      |
+|-------------------------+--------+------|
+| \_  2024-06-13 - Friday |        | 7:47 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-14 Fri 09:59]--[2024-06-14 Fri 17:46] =>  7:47
+:END:
+
+
+- Ok. I have the same ubuntu version on both Pi's
+- need to look into running an earlier version of SC so I can use the HID perameters
+  
+
+- found this link [[https://github.com/supercollider/supercollider/wiki/Installing-SuperCollider-from-source-on-Ubuntu][install on ubuntu]]
+- installed the very latest version 3.14.
+- HID is still Broken
+- grrr
+  - still cant get into vnc on the pi's
+
+
+** 2024-06-23 - Sunday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:30]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *3:14* |      |
+|-------------------------+--------+------|
+| \_  2024-06-23 - Sunday |        | 3:14 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-23 Sun 15:00]--[2024-06-23 Sun 17:21] =>  2:21
+CLOCK: [2024-06-23 Sun 12:17]--[2024-06-23 Sun 13:10] =>  0:53
+:END:
+
+
+- it's been a while.
+  - the joys of work.
+
+- today I am going to write to the rpi 1.
+- test to see if the screen works on a rpi 1????
+  - hopefully it does.
+  - if not I have to kill off the pi 1 as I would like to use the same monitors for each pi
+- keep working through the SC ixi Scoring Sound manual
+- carry on with some of the writing
+  - Carolina thinks that it can help me with coming up with a problem I need to solve.
+
+- RPI 1 is dead.
+  - Coooool. not cool
+
+- [[https://www.printables.com/model/742926-raspberry-pi-5-case/files][RPI5 case]] prusa printable
+
+
+- Mark Fisher - Capital Realism : Is there no alternative? // 2009 - Work pg52
+  - 
+
+
+- doing some C++ OpenFrameworks book
+  - super basic stuff
+  - [[https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html][ofbook]]
+
+    - 
+- Feel as though I'm not getting anywhere. this is my first day back after over a week of not working on the
+  project due to uni and going to work and exaustion from working the long hours and insane start and end times
+  Today was a bad day. Felt as though nothing is happening. Making a tentative start on going through the openframeworks book
+- looked at a little more of the work book.
+- looked a little at the "fast guide to architectural form"
+  - I think there is something in there. Carry on from the compform and process, keep on building structures.
+
+- i still lile some concrete poetry. Maybe that goes inside the of skectches???
+
+
+** 2024-06-24 - Monday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:30]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *1:47* |      |
+|-------------------------+--------+------|
+| \_  2024-06-24 - Monday |        | 1:47 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-06-24 Mon 09:55]--[2024-06-24 Mon 11:42] =>  1:47
+:END:
+
+
+- OK. do some supercollider
+
+
+
+** 2024-06-25 - Tuesday 
+
+- look into the redFrik UDK 14 && UDK 15 files.
+- udk14 is cuts and clicks
+- udk15 is survailence
+  - maybe a way to combine these?
+
+
+
+- What is my project??
+  - find out what my project is and start working out what I need to make that....
+  - the visuals I dont care about . Its just some fancy thing to occupy attention.
+  - I need to survail the attention and use that data to go into the table.
+  - maybe theres a way I can also use that data
+  - 
+
+
+
+
+
+** 2024-06-27 - Thursday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:29]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *0:55* |      |
+|---------------------------+--------+------|
+| \_  2024-06-27 - Thursday |        | 0:55 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-27 Thu 10:38]--[2024-06-27 Thu 11:33] =>  0:55
+:END:
+
+- looking at the [[https://github.com/redFrik/udk15-Surveillance_and_Analysis][redFrik udk015]] module - Survailence and analysis
+- Importing processing libs
+- copied out the week one code
+  - it was some kind of scanning patch in processing that sent out osc to supercolldier which then triggered sound.
+  - this could be a thing???
+    - maybe interativity to keep attention whilst gathering up that data use for the table???
+    - 
+
+
+
+** 2024-06-29 - Saturday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:29]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *2:09* |      |
+|---------------------------+--------+------|
+| \_  2024-06-29 - Saturday |        | 2:09 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-29 Sat 14:18]--[2024-06-29 Sat 14:35] =>  0:17
+CLOCK: [2024-06-29 Sat 12:19]--[2024-06-29 Sat 14:11] =>  1:52
+:END:
+
+- what to do????
+- keep having a look at the redfrick stuff. Maybe the cuts and clicks one??
+- did a little bit more of servailance also
+
+
+
+** 2024-06-30 - Sunday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:29]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:42* |      |
+|-------------------------+--------+------|
+| \_  2024-06-30 - Sunday |        | 2:42 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-06-30 Sun 11:20]--[2024-06-30 Sun 14:02] =>  2:42
+:END:
+
+
+- ok. i carried on with a few more tutorials.
+- hopefully ideas will be forming in my head.
+- carried on with houdini
+- did some supercollider ixi things with the envelopes?
+- and the redFrik glitch and survaillence
+  - the survaillence is kind of interesting.
+    - finding light pixels....
+    - maybe theres a thing where you draw somehting with movement of the light and dark pixels. The user doesnt know, but its the user moving it??
+    - doing some blender donut again
+
+
+** 2024-07-01 - Monday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:29]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *3:15* |      |
+|-------------------------+--------+------|
+| \_  2024-07-01 - Monday |        | 3:15 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-07-01 Mon 13:32]--[2024-07-01 Mon 14:50] =>  1:18
+CLOCK: [2024-07-01 Mon 09:59]--[2024-07-01 Mon 11:56] =>  1:57
+:END:
+
+
+- crack on with some tutorials stuff
+- working on the survailence stuff wk3.
+- I'm attempting to port the processing files over to openFrameworks
+- [[https://openframeworks.cc/documentation/video/][openFrameworks Video reference]]
+- [[https://teaching.nunocorreia.com/openframeworks-video-tutorials/][some OFTutorials (vid 9 - video)]]
+- go for lunch
+  - do some survailence stuff after lunch
+
+
+
+** 2024-07-02 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:29]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *5:11* |      |
+|--------------------------+--------+------|
+| \_  2024-07-02 - Tuesday |        | 5:11 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-02 Tue 13:22]--[2024-07-02 Tue 16:28] =>  3:06
+CLOCK: [2024-07-02 Tue 10:16]--[2024-07-02 Tue 12:07] =>  1:51
+CLOCK: [2024-07-02 Tue 09:46]--[2024-07-02 Tue 10:00] =>  0:14
+:END:
+
+
+- keep on with figuring out what it is you are doing??
+  - any ideas so far?
+    - I had a nice time using the camera brightest and lowest pixels to send osc data from processing to supercollider.
+- Had to do a restart as there was no audio from the laptop :/
+  - eugh. no idea where I was.
+- OK. back to pomodoro.
+  - 25 mins do the ixi tutorial
+- break.
+- trying to connect the rk06
+  - cant figure it out. oh well
+- "made"* a synths that responds to midi in
+  - * copied from the ixi tutorial
+- BUT I did get the rk06 working.....not that I need it for this project. but its good to have it running as a midi device
+- worked a little on chapter 9 audio and soundfiles and buffers
+  
+- automatic recorder is cool. maybe something to do with that????
+
+- (
+//detector w recorder
+~buffer = Buffer.alloc(s, 44100*3); //make a single 3 second long buffer
+
+(
+Ndef(\automaticRecorder, {|thresh=0.09, time=0.2, amp=1|
+	var src = SoundIn.ar*amp;
+	var off = DetectSilence.ar(src, thresh, time);
+	var on = 1-off;
+	on.poll;
+	RecordBuf.ar(src, ~buffer, loop:0, trigger:on);
+});
+)
+)
+~buffer.play
+
+
+;;;;;;;;;;;;;;;
+- heres a version that automatically plays
+
+  ~buffer4=Buffer.alloc(s, 44100*4);
+(
+Ndef(\aR4, {|thresh=0.09, time=0.2, amp=1, rate=1|
+	var src = SoundIn.ar*amp;
+	var off = DetectSilence.ar(src, thresh, time);
+	var on = 1-off;
+	on.poll;
+	RecordBuf.ar(src, ~buffer4, loop:1, run:on);
+	PlayBuf.ar(1, ~buffer4, rate, loop:1).dup;
+}).play
+)
+Ndef(\aR4).gui
+Ndef(\aR4).stop
+Ndef(\aR4).clear
+
+
+;;;;;;;;;;;;;;;;;;;;;;;
+
+- [[http://www.flong.com/archive/texts/essays/essay_cvad/index.html][computerVision]]
+
+
+- fucking around with lots of pythin not working due to this miniforge thing we instllled
+- got pythin working. have to deactivate conda.
+- installed python 2
+  - the redFrik stuff works now fine.
+  - sonifying the cpu processes. WTF???
+- ok. need to start thinking about how I can get and process data from the apps being used and store it in a table???
+- mainly working through tutorials. trying to find something. getting interesting results from the redFrik stufff
+
+
+
+** 2024-07-05 - Friday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:29]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *0:28* |      |
+|-------------------------+--------+------|
+| \_  2024-07-05 - Friday |        | 0:28 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-05 Fri 11:25]--[2024-07-05 Fri 11:53] =>  0:28
+:END:
+
+- Rasberry pi 1 is working.
+  - turns out I was trying to power it with a wrong psu.
+  - it also works with the small screens.
+  - need to buy 1 small screen
+  - also a couple of pi cameras
+  - some bizzare behaviour on pi os not allowing me to apt-get update
+  - looking for a 32bit ububtu.
+  - installed RISC OS PI??????
+    - wtf is this???
+  - [[https://www.riscosopen.org/content/][RISC OSC]]
+ 
+  - 
+  - 
+
+
+** 2024-07-07 - Sunday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:29]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *0:01* |      |
+|-------------------------+--------+------|
+| \_  2024-07-07 - Sunday |        | 0:01 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-07 Sun 18:48]--[2024-07-07 Sun 18:49] =>  0:01
+:END:
+
+
+
+
+
+
+** 2024-07-09 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:28]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *3:43* |      |
+|--------------------------+--------+------|
+| \_  2024-07-09 - Tuesday |        | 3:43 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-09 Tue 10:47]--[2024-07-09 Tue 14:30] =>  3:43
+:END:
+
+
+- crit
+- what am I doing?
+  - creating something to occupy a users attention
+  - i want to somehow attempt to get the user information to try to document if the users dwell time can corrolate to the time and money spent on the project.
+    - Is my time worth the it?
+      
+     
+- Presence tracking
+- glasshouse piece
+  - facebooktracking
+    - labour/recipts
+  - 
+meh
+
+- didnt really do much today
+
+
+
+** 2024-07-10 - Wednesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:28]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *2:59* |      |
+|----------------------------+--------+------|
+| \_  2024-07-10 - Wednesday |        | 2:59 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-10 Wed 16:48]--[2024-07-10 Wed 17:30] =>  1:00
+CLOCK: [2024-07-10 Wed 13:50]--[2024-07-10 Wed 16:07] =>  2:17
+:END:
+
+- just bought a pi camera v2.
+  - lets see what happens.
+  - can use for the pi 4
+
+
+- did some more oif the ixi tutorial. Some of the buffer stuff didnt work. onto wavetable stuff.
+- do some openFrameworks
+  - did a little more on the brushes
+- do some redfrik stuff
+- did some udk12 back to basics
+  - some python, supercollider, processing and now arduino
+
+
+
+
+** 2024-07-11 - Thursday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:28]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *5:18* |      |
+|---------------------------+--------+------|
+| \_  2024-07-11 - Thursday |        | 5:18 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-07-11 Thu 13:01]--[2024-07-11 Thu 18:19] =>  5:18
+:END:
+
+
+- the RPI camera v2 came today.
+- Installing on ubuntu
+  - [[ https://raspberrypi.stackexchange.com/questions/112571/how-to-use-install-raspberry-pi-camera-on-ubuntu-os][pi camera on ububtu]]
+  - installed raspi-config
+  - turned on legacy 
+  - rebooted
+- mothafucker. the pi wont boot
+- I did have the camera in the wrong pin slot :|
+  - [[https://www.youtube.com/watch?v=va7o7wzhEE4][try this]]
+  - or [[https://gaseoustortoise.notion.site/Raspberry-Pi-Camera-bc33c733eeb4417cbd5e3db027a3a429?pvs=4][this written guide]]
+    I'll have to reboot from kernal
+- orrr. maybe I can copy the pi 5 copy>??
+- [[https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/][enable ssh on ubuntu]]
+  - sudo apt install openssh-server
+  - sudo systemctl status ssh
+  - sudo ufw allow ssh
+  - ssh-keygen -R <ip address you are sshing to>
+- trying to get chat gpt to figure out my install problem
+  - [[https://chatgpt.com/share/1ce51a86-ca0e-4b48-9a53-389259cf85ee][chatgpt camera install]]
+  - installing [[https://libcamera.org/getting-started.html][libcamera]]
+  - lots of fucking around with installing libcam and libcam-apps and many dependencies
+  - refer to chatgpt file
+  - also making with meson and ninja
+- HOLY SHIT
+  - Dasable the legacy camera in Raspi-config
+
+- [[https://www.raspberrypi.com/documentation/computers/camera_software.html#building-libcamera-and-rpicam-apps][raspicam www]]
+
+
+
+** 2024-07-12 - Friday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:28]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *4:15* |      |
+|-------------------------+--------+------|
+| \_  2024-07-12 - Friday |        | 4:15 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-12 Fri 14:50]--[2024-07-12 Fri 18:00] =>  3:10
+CLOCK: [2024-07-12 Fri 13:45]--[2024-07-12 Fri 14:50] =>  1:05
+:END:
+
+- ok. Lets work on this camera on the PI for a little while
+- keep a script of all terminal commands
+  - [[https://commandmasters.com/commands/script-linux/][script www]]
+- [[https://www.raspberrypi.com/documentation/computers/camera_software.html#building-libcamera-and-rpicam-apps][rpicamWWW]]
+- [[https://www.youtube.com/watch?v=hdXDMIvQuTs][run applications gui over ssh]]
+- spent all afternoon chasing down this XQuartz thing that wont work
+- broke linux.
+- having to reinstall
+- ok. STOP FUCKING AROUND!
+- install ubuntu
+- 
+- install the camer again
+- learn to use the camera
+- FORGET ABOUT THIS WHOLE REMOTE DESKTOP FOR NOW!!!!
+
+
+
+** 2024-07-13 - Saturday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:27]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *5:31* |      |
+|---------------------------+--------+------|
+| \_  2024-07-13 - Saturday |        | 5:31 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-07-13 Sat 11:08]--[2024-07-13 Sat 16:39] =>  5:31
+:END:
+
+
+- reload linux onto the pi (again!)
+
+
+*** things to still do
+- make cases for pis and screens
+- get more pi's and screens
+- get a ultrasonic sensor working
+- make things to go on pis
+- [[https://libcamera.org/getting-started.html]]
+
+
+*** Installing pi camera on linux pi
+
+1. sudo apt install -y git cmake libboost-dev libgnutls28-dev openssl libtiff5-dev \
+libjpeg-dev qtbase5-dev libunwind-dev libgles2-mesa-dev gstreamer1.0-tools \
+libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libclang-dev \
+python3-yaml python3-pip
+
+1. git clone https://git.libcamera.org/libcamera/libcamera.git
+2. sudo apt install raspi-config
+3. sudo apt install v4l-utils
+4. sudo apt install libyaml-dev python3-yaml python3-ply python3-jinja2
+5. git clone https://github.com/raspberrypi/libcamera-apps.git
+6. sudo apt install meson
+7. sudo apt-get install libboost-all-dev
+8. sudo apt install libexif-dev
+9. sudo apt install libpng-dev
+10. cd libcamera
+11. meson setup build
+12. ninja -C build
+13. cd libcamera/build
+14. sudo ninja install
+15. cd libcam-apps
+16. meson  setup build
+17. ninja -C build
+18. cd libcamera-apps/build
+19. sudo ninja install
+20. libcamera-still -o test.jpg
+21. if cant find rpicam_app do following
+22. sudo find / -name "rpicam_app.so.1.5.0"
+23. export LD_LIBRARY_PATH=/usr/local/lib/aarch64-linux-gnu:$LD_LIBRARY_PATH
+24. echo $LD_LIBRARY_PATH
+25. ldconfig -p | grep rpicam_app
+26. nano ~/.bashrc
+27. Add the following line to the file: export LD_LIBRARY_PATH=/usr/local/lib/aarch64-linux-gnu:$LD_LIBRARY_PATH
+28. source ~/.bashrc
+29. libcamera-still -o test.jpg
+30. cd /usr/local/lib/aarch64-linux-gnu
+31. rebuild libcam-apps
+32. rm -rf build  # Remove existing build directory if it exists
+33. git clone https://github.com/raspberrypi/userland.git
+34. cd userland
+35. ./buildme
+
+
+I did some things at the end. :| :| :|
+
+
+- ok. RPICAM is up and runnning
+- GO THRU THE README [[https://www.raspberrypi.com/documentation/computers/camera_software.html#building-libcamera-and-rpicam-apps][documentation]]
+- Got Processing running
+  - woooo
+- installing libs for processing
+  - opencv
+  - video for processing
+  - oscP5
+  - 
+
+
+1. OK. attempt to make a patch in processing on the mac,
+2. scp it over to the linux??
+3. actually. nano into a scrpitp
+4. make a new pde file from the mac
+   
+
+
+
+** 2024-07-14 - Sunday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:27]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:17* |      |
+|-------------------------+--------+------|
+| \_  2024-07-14 - Sunday |        | 2:17 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-07-14 Sun 13:58]--[2024-07-14 Sun 14:35] =>  0:37
+CLOCK: [2024-07-14 Sun 11:19]--[2024-07-14 Sun 12:59] =>  1:40
+:END:
+
+
+
+- get processing running
+- trying to run the processing from the ben fry github
+  - https://github.com/benfry/processing4
+  - [[https://github.com/benfry/processing4/blob/main/build/README.md][build instructions]]
+  - WOOP. this is the way!!!!!
+- having an error loading video modules
+- GSTREAMER install
+- damn. I think because I have to build processing everytime I use it I have to install the libraries each time I run it as well
+  ????????????????
+- 
+
+
+** 2024-07-15 - Monday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 13:27]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *1:50* |      |
+|-------------------------+--------+------|
+| \_  2024-07-15 - Monday |        | 1:50 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-07-15 Mon 18:01]--[2024-07-15 Mon 18:17] =>  0:16
+CLOCK: [2024-07-15 Mon 10:42]--[2024-07-15 Mon 12:16] =>  1:34
+:END:
+
+
+- OK. no processing with video?????
+- move to open cv with python maybe?
+- create a virtual envioronment in python for installing open cv and work from that directory
+- [[https://github.com/opencv/opencv][opencv git]]
+- figure out how to do spreadsheet formulas in emacs org mode tables.
+- just bout another rasberry pi and psu for the total of £93
+- also theres a problem running the python script from a virtual envoironment from my mac via ssh....
+- sigh
+- installing tailscale
+  - on linux run
+  - sudo  tailscale up
+
+
+
+** 2024-07-16 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-16 Tue 19:27]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *5:14* |      |
+|--------------------------+--------+------|
+| \_  2024-07-16 - Tuesday |        | 5:14 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-16 Tue 18:28]--[2024-07-16 Tue 19:26] =>  0:58
+CLOCK: [2024-07-16 Tue 15:45]--[2024-07-16 Tue 17:57] =>  2:12
+CLOCK: [2024-07-16 Tue 13:33]--[2024-07-16 Tue 14:11] =>  0:38
+CLOCK: [2024-07-16 Tue 13:12]--[2024-07-16 Tue 13:27] =>  0:15
+CLOCK: [2024-07-16 Tue 12:00]--[2024-07-16 Tue 13:11] =>  1:11
+:END:
+
+
+- OK. I think I figured out basic table formulas in orgmode
+
+- [[https://www.youtube.com/watch?v=wrEYankhAIs&list=PLGMx7bOKMJTw4p7vs1kTGBAnW81NB57Wv&index=9][tebles and spreadsheets orgmode]]
+
+  | name   | q1 | q2 | q3 | q1 + q2 + q3 |
+  |--------+----+----+----+--------------|
+  | ben    |  4 |  3 |  3 |           10 |
+  | sara   |  2 |  4 |  6 |           12 |
+  | jeff   | 34 |  4 |  2 |           40 |
+  | totals | 40 | 11 |    |           40 |
+  #+TBLFM: $5 = $2+$3+$4 :: @5$2 = @2+@3+@4 :: @5$3= @2+@3+@4
+
+
+
+- I bought more things from Amazon this morning
+  - 2 x pi screens
+  - 1 x usb soundcard dongle
+  - 1 x 128gb ssd card
+
+- today do some donkey work/ admin stuff
+  - sort out the finances
+  - sort out my hours worked?
+  - the following is taken from an chatgpt log [[https://chatgpt.com/c/9d9054db-b099-4ef7-a9f4-9a6a2638ad6b][a days worth of chatgpt]]
+    - Yes, you can log your hours in Org mode and automatically add them to a table. Here’s how you can do it: 
+
+
+- [[https://www.youtube.com/watch?v=o6rE18Mxu9U][clock tables]]
+
+- printing out a rasprerry pi 5 case and lid from this link
+  - [[https://www.printables.com/model/742926-raspberry-pi-5-case/files][p5case]]
+  - see what happens.
+  - its an 9 hr print :/
+  -
+
+
+- having a problem where I cannot view the camera in the opencv library
+- maybe reinstall libcam
+- a problem with no preview window
+
+- [[https://github.com/raspberrypi/libcamera][libcam git]]
+- [[https://www.raspberrypi.com/documentation/computers/camera_software.html#building-rpicam-apps-without-building-libcamera][buld the libcam and raspicam-apps]]
+- 
+- 
+
+
+
+** 2024-07-17 - Wednesday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-17 Wed 16:44]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *5:34* |      |
+|----------------------------+--------+------|
+| \_  2024-07-17 - Wednesday |        | 5:34 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-17 Wed 17:58]--[2024-07-17 Wed 18:12] =>  0:14
+CLOCK: [2024-07-17 Wed 15:09]--[2024-07-17 Wed 16:43] =>  1:34
+CLOCK: [2024-07-17 Wed 10:54]--[2024-07-17 Wed 14:54] =>  4:00
+:END:
+
+
+
+
+
+
+- [[https://docs.opencv.org/4.x/index.html][OPENCV DOCUMENTATION]]
+- [[https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.html][build opencv]]
+  - building from source is a loooong process
+- re running libcam and rspicam-apps bulds.
+  - adding missing libraries
+
+- OK. i still cant get a preview window.
+
+- before a complete reboot of the system and to load it as pi see if I can do the cam stuff in opencv
+
+- OK. Doing a new reinstall of RPI OS as this ubuntu is annoying me
+  
+- Works fine straight out of the box on Rasberry pi OS
+  FUCK ME!
+
+- lunch
+
+
+
+** 2024-07-18 - Thursday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-18 Thu 18:05]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *6:45* |      |
+|---------------------------+--------+------|
+| \_  2024-07-18 - Thursday |        | 6:45 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-18 Thu 12:59]--[2024-07-18 Thu 18:05] =>  5:06
+CLOCK: [2024-07-18 Thu 10:24]--[2024-07-18 Thu 12:03] =>  1:39
+:END:
+
+
+
+- keep working through the rpicam stuff.
+- today start looking at the Ultrasonic sensors
+  - [[https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/?utm_content=cmp-true][ultrasonic sensor and Rasberry pi]]
+- try get the rpi1 working properly
+- hopefully the hdmi cables come today
+- 
+- is there a way to be capturing the video and turning it into a series of pictures. maybe linking together the data or something????
+- look into a borderless image viewer for the pi
+- [[https://www.raspberrypi.com/documentation/computers/camera_software.html#post-processing-with-rpicam-apps][post-processing with rpicam --> opencv]]
+- trying to use opencv with rpicam-apps.
+  - uninstalling and installing lots of libs. AGAIN
+- [[https://lindevs.com/install-precompiled-tensorflow-lite-on-raspberry-pi/][Tesnorflow - LITE]]
+- ok. got tensorFlow running on the Rasberry pi.
+- excellent
+- finish for the day
+
+
+
+** 2024-07-19 - Friday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-19 Fri 18:01]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *6:53* |      |
+|-------------------------+--------+------|
+| \_  2024-07-19 - Friday |        | 6:53 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-19 Fri 14:46]--[2024-07-19 Fri 18:01] =>  3:15
+CLOCK: [2024-07-19 Fri 09:14]--[2024-07-19 Fri 12:52] =>  3:38
+:END:
+
+
+- look into the post-processing files in the rpicam-apps
+- build something that does something?
+  - does what?
+    - maybe object detection that then triggers something???
+- wait for new hdmi cables
+- wait for new Rasberry pi5
+- work on some ultrasonic sensor stuff
+- continuing to use Chatgpt as a pair programming problem solviing tool
+  - must be aware not to be over reliant on it.
+
+
+- some running scripts
+  - $ rpicam-hello --post-process-file rpicam-apps/assets/object_detect_tf.json --lores-width 400 --lores-height 300
+- 
+- 
+- 
+- The TensorFlow pose estimation script may be cool.
+  - [[https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_32-bits][TesorFlow-pose git]]
+  - is there a way for me to link that to osc?
+    - [[https://chatgpt.com/share/40e5bbb9-d729-4aca-9f28-74087d3d0191][from chatgpt 24_07-19-16:00]]
+    - didnt work as I think I'm running tesorflow outside of the virtual env
+      
+  - rpicam-hello --timeout 50000 --post-process-file rpicam-apps/assets/pose_estimation_tf.json --lores-width 258 --lores-height 258
+- installed [[id:90AA4DB1-412B-4C16-8882-E32395385B08][osc4py3]] [[https://pypi.org/project/osc4py3/][osc4pi3www]]
+  - [[https://osc4py3.readthedocs.io/en/latest/][documentation]]
+
+- waiting a LONG time to buld dependencies for opencv via this
+  - [[https://learn.circuit.rocks/introduction-to-opencv-using-the-raspberry-pi][opencv tutorial]]
+  - having to build protobuf, whatever that is
+  
+
+make build for opencv
+
+cmake -D CMAKE_BUILD_TYPE=RELEASE \
+    -D CMAKE_INSTALL_PREFIX=/usr/local \
+    -D OPENCV_EXTRA_MODULES_PATH=~/Documents/finalProject/camProj/opencv_contrib/modules \
+    -D ENABLE_NEON=ON \
+    -D ENABLE_VFPV3=ON \
+    -D BUILD_TESTS=OFF \
+    -D INSTALL_PYTHON_EXAMPLES=OFF \
+    -D OPENCV_ENABLE_NONFREE=ON \
+    -D CMAKE_SHARED_LINKER_FLAGS=-latomic \
+    -D BUILD_EXAMPLES=OFF ..
+
+
+
+ - Ignore the above maybe????
+ - I just went with the openCV linux installation
+   - that seems to be building
+ - [[https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf][PICAMERA2 DOC]]
+
+
+ 
+- hdmi cables came.
+- the pi box wont allow the hdmi to connect properly
+- install a new linux on the new Pi 5
+- having to melt out the hdmi slot in the pi cases I made as the hdmi cable is too large for it to fit
+-
+
+
+- not a bad day/week so far.
+- got some stuff done.
+- I have at least 1 direction to go on the rpi4
+- I have software on the rpi5
+- the second rpi5 came today
+- I think I need to maybe buy one more RPI5 ...... :/
+  - get it in the house without carolina seeing it. put it on the CC
+
+
+
+
+** 2024-07-20 - Saturday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-21 Sun 10:33]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *1:00* |      |
+|---------------------------+--------+------|
+| \_  2024-07-20 - Saturday |        | 1:00 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-20 Sat 08:30]--[2024-07-20 Sat 09:30] =>  1:00
+:END:
+
+
+
+
+- first thing, run make from the following dir
+  - (camProj) ashleysagar@raspberrypi:~/Documents/finalProject/camProj/opencv/build $ make
+- continuing making the open cv
+- Installing the new PI os on Linux 
+-
+
+
+
+** 2024-07-21 - Sunday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-21 Sun 15:11]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *0:56* |      |
+|-------------------------+--------+------|
+| \_  2024-07-21 - Sunday |        | 0:56 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-07-21 Sun 15:08]--[2024-07-21 Sun 15:11] =>  0:03
+CLOCK: [2024-07-21 Sun 10:34]--[2024-07-21 Sun 11:27] =>  0:53
+:END:
+
+- continue the make of open cv on the pi 4
+  - continuing at 91%
+- Currently have three OD systems onthe pis :/
+- opencv installed. Getting errors with the tesorflow model.
+  - keep looking at it. You're doing great
+  -
+
+
+- CURRENT ERROR FOR RUNNING OPENCV
+  - (camProj) ashleysagar@raspberrypi:~/Documents/finalProject/camProj $ python3 tf2Osc.py 
+Traceback (most recent call last):
+  File "/home/ashleysagar/Documents/finalProject/camProj/tf2Osc.py", line 8, in <module>
+    interpreter = tf.lite.Interpreter(model_path="~/home/ashleysagar/model.tflite")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashleysagar/Documents/finalProject/camProj/lib/python3.11/site-packages/tensorflow/lite/python/interpreter.py", line 473, in __init__
+    self._interpreter = _interpreter_wrapper.CreateWrapperFromFile(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Could not open '~/home/ashleysagar/model.tflite'.
+
+
+
+
+*** THE RASBERRY PI IP ADDRESSES WHILS ON MY LOCAL NETWORK
+
+**** RPI4 ip = 192.168.1.174
+
+**** RPI5 ip = 192.168.1.133
+
+**** RPI5_2 ip  = 192.168.1.137
+
+
+
+
+** 2024-07-22 - Monday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-22 Mon 18:40]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *8:44* |      |
+|-------------------------+--------+------|
+| \_  2024-07-22 - Monday |        | 8:44 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-22 Mon 18:15]--[2024-07-22 Mon 18:40] =>  0:25
+CLOCK: [2024-07-22 Mon 17:53]--[2024-07-22 Mon 18:09] =>  0:16
+CLOCK: [2024-07-22 Mon 08:55]--[2024-07-22 Mon 16:58] =>  8:03
+:END:
+
+
+
+
+
+- something has broken the rpi5.1.
+- I attempted an update yesterday and its now broken. the screen is flickering
+- listen ack to the recordning you made yetsrday
+- reinstalling the OS on the RPI5.1
+- make a git repeo for this whole project today.
+- audio recording transcript
+  - split time between the 3 Pi's
+  - spend time on the pi4
+    - get the osc working with the pose tracking
+    - synced into audio
+    - depending on where you move your arms can trigger different things
+  - onePi is OpenFrameworks
+  - one pi can maybe be concrete poetry
+- the thread that matters is the recieving the data of usage that can be processed
+  - work out the ultrasonic sensor
+    - how the time can be processed into time viewed = £per min
+
+      
+- FUCK. I'm really annoyed now. I reformatted a completey fine PI as the screen was flickering after I attemted an upgrade.
+  I thought it was the installation as I had stpped it part way. but it turns out that it was the mouse USB connected to the keyboard, connected to the PI. SERENITY NOW!!!!!!!!!!
+-just bought another Pi. thats it. the last one. 4 is enough as I have 4 screens and the pi one??? F knows what I'll do with that.
+
+- Continue on getting the tensorflow osc thing working
+- [[https://chatgpt.com/share/40e5bbb9-d729-4aca-9f28-74087d3d0191][here is the Chatgpt link to my things???]]
+- "/home/ashleysagar/Documents/finalProject/camProj/TensorFlow_Lite_Pose_RPi_32-bits/posenet_mobilenet_v1_100_2>
+- ok. for some reason the rpicam-hello will no longer open a simple --post-process-file from tesorflow
+- possibly as I made changes to running everiubg in a virtual env??
+  - recompiling the rpicam-apps
+- look at installing OpenFrammeworks on 1 pi.
+- SuperCollider on another
+- 
+- HOLY SHIT. Something happened.
+- the terminal brought up loads of vectors. a open cv window that was blank but the script ran
+- ok. cant get opencv to work on this pi.
+- I bneed to change tack
+- try the C++ route instead
+  - start this tomorrow
+- [[https://chatgpt.com/share/0b451559-0694-4eee-ae0f-c2cd5343a34a][here is the link to the chatgpt for setting up openframeworks]]
+- [[https://openframeworks.cc/setup/raspberrypi/raspberry-pi-getting-started/][setup for rasberry pi OpenFrameworks www]]
+- OpenFrameworks is running. Running the make RunRelease command from terminal on the pi is almost instant.
+  - Currently trying to run the make RunRelease from ssh. aking muuuch longer
+- go for lunch. stay clocked in as I'm still trying to run the sketch
+- 40 mins later, still didnt run.
+- installing qt creator
+- [[https://openframeworks.cc/setup/qtcreator/]]
+- I attempted the qtcreator but I'm just running into errors. Its probably easier to run this via editing through ssh on nano and running the RunRelease and building from scratch
+- running emacs from command line
+  - emacs -nw
+- ok. I have to compile the project with make, then run with make RunRelease.
+- still building the new tensorflow pack
+- looking back into tailscale ....
+- build was fine for tensorflow
+- getting oscpack now
+- ok. I think I'mm done for the day.
+- did a lot. still figuring out this camera pose recognition stuff.
+  - maybe have a backup if I cant get this running??
+- got openFrameworks running.
+  - I have to edit the docs via emacs in terminal, but its far better than using nano.
+  - 
+
+
+
+** 2024-07-23 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-23 Tue 18:25]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *6:18* |      |
+|--------------------------+--------+------|
+| \_  2024-07-23 - Tuesday |        | 6:18 |
+#+END:
+
+
+
+:LOGBOOK:
+CLOCK: [2024-07-23 Tue 16:11]--[2024-07-23 Tue 18:25] =>  2:14
+CLOCK: [2024-07-23 Tue 13:35]--[2024-07-23 Tue 15:53] =>  2:18
+CLOCK: [2024-07-23 Tue 10:26]--[2024-07-23 Tue 12:12] =>  1:46
+:END:
+
+
+
+- I possibly need another PSU for a RPI as the one i have cannot supply enough power to run the screen
+- spend the morning trying to get this pi camera thing running.
+  - c++ scripts
+  - Codeblocks keeps randomly crashing. goind to reinstaall
+  - trying VSCode on the pi.
+  - on with attempintg some long ass way of setting up this patch working from the chatgpt code.
+  - [[https://chatgpt.com/share/01b34d31-9c7f-4764-a1b4-20bdb2511eb5][Tensorflow => osc => supercollider???? Maybe. Not checked it yet]]
+  - ok. do 1 more hr on this then start installing SC. oh. Buy a better PSU
+  - trying out openframeworks????
+  - maybe this is a bust?
+  - so. openFrameworks is running on the pi os
+  - ran a 3d example fine
+  - now try a video one
+  - not recognising the camera
+  - recognises a webcam
+  - still no joy.
+  - DO I reinstall linux and try again??
+- move onto making supercollider work
+  - nope. not gonna work
+  - need a new psu with more power
+  - maybe i'm running the pi 5 on a pi 4 psu?
+- ok. the power is fixed now
+- installing v3.13 of supercollider.
+- just running make. going to stay clocked in whilst I do this but go make dinner
+- currently the build is at 20% @ 17.36
+- SC installed. Deal with the audio card tomorrow
+  
+
+
+
+** 2024-07-24 - Wednesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-24 Wed 18:46]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *6:32* |      |
+|----------------------------+--------+------|
+| \_  2024-07-24 - Wednesday |        | 6:32 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-24 Wed 14:10]--[2024-07-24 Wed 18:46] =>  4:36
+CLOCK: [2024-07-24 Wed 09:59]--[2024-07-24 Wed 11:55] =>  1:56
+:END:
+
+
+
+- still waiting for the final pi to show up
+- make a bash script for the camera??
+  - maybe I can send the camera feed????
+- OK. i now have two bash scripts
+  - The RPI4  sending video stream through udp to the RPI5-2
+  - The second script is to recieve the UDP stream into ffplay via UDP.
+- look into setting up a new post process fike
+- maybe a way to pipe into and change ffplay settings??
+- each script needs running locally though.
+- look into getting them to run automatically
+- look at pushing from linux into a git???
+- first I need to clone
+- [[https://www.theodinproject.com/lessons/foundations-setting-up-git][setting up git TOP way]]
+- git set up on three pis.
+- [[git@github.com:secc9/MA_FinalProject.git][clone the MA repo]]
+- done.
+- Take lunch
+- look into [[https://ffglitch.org/download/][ffglitch]] to run as processing for ffplay
+- new delivery came.
+- [[https://ffmpeg.org/ffmpeg-filters.html#Video-Filters][ffmpeg video filters]]
+- installing linux on the last pi.
+  - tomorrow start figuring out a way to read the ultrasonic distance sensor
+  - [[https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi][seems like a good start pi hut]]
+- not  a bad day today.
+- i got some way through the pi camera thing. keep looking at ffmpeg. try figure a way to glitch it live if you can
+- the last pi turned up with the fans
+- finished for the day
+
+
+
+** 2024-07-25 - Thursday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-25 Thu 20:12]
+| Headline                  | Time    |       |
+|---------------------------+---------+-------|
+| *Total time*              | *10:46* |       |
+|---------------------------+---------+-------|
+| \_  2024-07-25 - Thursday |         | 10:46 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-25 Thu 14:00]--[2024-07-25 Thu 20:11] =>  6:11
+CLOCK: [2024-07-25 Thu 08:29]--[2024-07-25 Thu 13:04] =>  4:35
+:END:
+
+
+- This morning, work on the ultrasonic sensor
+- [[https://pypi.org/project/RPi.GPIO/][RPi.GPIO]]
+  - "Note that this module is unsuitable for real-time or timing critical applications. This is because you can not predict when Python will be busy garbage collecting."
+  - Hmm. Great.
+  - so I think its arduino time. but running arduino from the pi
+- [[https://maker.pro/raspberry-pi/tutorial/how-to-connect-and-interface-raspberry-pi-with-arduino][PI 2 Arduino]]
+- I have arduino installed.
+- I think I need to get the data from arduino int processing on the pi
+  - when the distance sensor breaks a certain point the data is collected and converted into time and then [[https://processing.org/reference/Table.html][inputted into a spreadsheet table in processing]]
+  - got the code running and picking up distances
+  - neet to now move that to processing somehow
+  - install processing
+- making a basic camera holder [[PiCamAngle.STL][picam holder]]
+- Procssing installed (install the RPI version tho mate eh ;) )
+- yes
+- lets move on. Do some ffmpeg stuff
+  - what do I want to do?
+  - lets research some ffmpeg glitch stuff???
+  - maybe try to replace the ffglich patched int theffmpeg and see what happens????
+  - do a vertical flip for now
+  - [[http://datamoshing.com/][Datamoshing]]
+  - keep looking into the filters to see if you can get any more interesting things going on
+  - [[https://ffmpeg.org/ffmpeg-filters.html#libplacebo][libplacebo ffmpeg Documentation]]
+    - [[https://code.videolan.org/videolan/libplacebo/-/blob/master/README.md][also the actual libplacebo]]
+  - removed ffmpeg and rebuilding it from source instead so that i can "use" thelibplacebo library with it
+  - didnt install with ffplay :/
+  - I need to figure out hoe to installl libpl;acebo using the apt install ?
+
+- then onto some supercollider
+- then onto openframeworks
+
+
+
+
+** 2024-07-26 - Friday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-26 Fri 21:06]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *3:26* |      |
+|-------------------------+--------+------|
+| \_  2024-07-26 - Friday |        | 3:26 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-26 Fri 20:32]--[2024-07-26 Fri 21:06] =>  0:34
+CLOCK: [2024-07-26 Fri 09:32]--[2024-07-26 Fri 12:24] =>  2:52
+:END:
+
+
+
+- found this last night for some ffmpeg effects [[https://trac.ffmpeg.org/wiki/FancyFilteringExamples][fancy filtering]]
+  - ffmpeg -filters
+  - T.. are timescale enabled
+    - T.. floodfill
+    - T.. gradfun           V->V       Debands video quickly using gradients.
+    - T.. hysteresis        VV->V      Grow first stream into second stream by connecting components.
+    - T.. midequalizer      VV->V      Apply Midway Equalization.
+    - T.. shuffleframes     V->V       Shuffle video frames.
+    - T.. tmidequalizer     V->V       Apply Temporal Midway Equalization.
+    - TSC amplify           V->V       Amplify changes between successive video frames.
+    - 
+- work on getting data from arduino to processing
+  - [[https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all][arduino to processing]]
+  - ok. Chatgpt has written a couple of scripts for me.
+- prompt
+- i have a arduino sketch checking distance with the HCSR04 lib and I want it to notice at what point the distance sensor has been broken and for how long and I want to send this data over to processing and convert it into time data and insert it into a table
+  - Certainly! To achieve this, you'll need to follow these steps:
+- **Create an Arduino Sketch to Measure Distance and Detect Broken Sensor**
+- **Send Data to Processing**
+- **Write a Processing Sketch to Receive Data, Convert It, and Insert It into a Table**
+
+### 1. Create an Arduino Sketch
+
+The Arduino sketch will measure the distance using the HC-SR04 sensor and detect when the sensor is "broken" (e.g., if the distance is out of the expected range). It will then send the relevant data to Processing.
+
+Here’s an example Arduino sketch:
+
+```cpp
+#include <NewPing.h>
+
+// Define pins and constants
+#define TRIGGER_PIN  12
+#define ECHO_PIN     13
+#define MAX_DISTANCE 200  // Max distance (in cm) to measure
+#define BROKEN_THRESHOLD 10  // Define a threshold for when the sensor is considered broken
+
+NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  delay(100);  // Delay between measurements
+  unsigned int distance = sonar.ping_cm();
+
+  // Check if the distance measurement is valid
+  if (distance > 0 && distance < BROKEN_THRESHOLD) {
+    Serial.print("Sensor Broken; Distance: ");
+    Serial.println(distance);
+  } else {
+    Serial.print("Normal; Distance: ");
+    Serial.println(distance);
+  }
+}
+```
+
+In this sketch:
+- The `NewPing` library is used to interface with the HC-SR04 sensor.
+- The sensor is considered "broken" if the measured distance is less than `BROKEN_THRESHOLD` cm.
+
+### 2. Send Data to Processing
+
+The Arduino will send data over the serial port, which will be read by Processing.
+
+### 3. Write a Processing Sketch
+
+Here’s a Processing sketch that reads the data from the Arduino, converts it into time data, and inserts it into a table.
+
+```java
+import processing.serial.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+Serial myPort;
+String incomingData = "";
+ArrayList<HashMap<String, String>> dataTable = new ArrayList<>();
+long startTime;
+
+void setup() {
+  size(600, 400);
+  // Initialize the serial port
+  myPort = new Serial(this, "/dev/ttyACM0", 9600);  // Update the port as needed
+  startTime = millis();  // Record the start time
+  noLoop();  // Stop draw loop if only updating on serial data
+}
+
+void draw() {
+  background(255);
+  fill(0);
+  textSize(16);
+  text("Data Table", 10, 30);
+  
+  // Display table headers
+  text("Timestamp (s)", 10, 60);
+  text("Type", 200, 60);
+  text("Distance (cm)", 350, 60);
+
+  // Display table data
+  int y = 90;
+  for (HashMap<String, String> row : dataTable) {
+    text(row.get("timestamp"), 10, y);
+    text(row.get("type"), 200, y);
+    text(row.get("distance"), 350, y);
+    y += 30;
+  }
+}
+
+void serialEvent(Serial myPort) {
+  incomingData = myPort.readStringUntil('\n');
+  
+  if (incomingData != null) {
+    incomingData = trim(incomingData);
+    
+    // Parse incoming data
+    String[] parts = split(incomingData, ';');
+    if (parts.length == 2) {
+      String type = parts[0];  // "Sensor Broken" or "Normal"
+      String distance = parts[1];  // Distance value
+      
+      // Record timestamp
+      long timestamp = (millis() - startTime) / 1000;  // Convert milliseconds to seconds
+      
+      // Create a new row in the table
+      HashMap<String, String> row = new HashMap<>();
+      row.put("timestamp", str(timestamp));
+      row.put("type", type);
+      row.put("distance", distance);
+      
+      // Add the row to the table
+      dataTable.add(row);
+      
+      // Redraw the table
+      redraw();
+    }
+  }
+}
+```
+
+### Explanation:
+
+1. **Arduino Sketch:**
+   - Measures distance using the HC-SR04 sensor.
+   - Sends a string to the serial port indicating whether the sensor is broken or normal, along with the distance.
+
+2. **Processing Sketch:**
+   - Initializes the serial port to receive data from Arduino.
+   - Reads incoming serial data and parses it into type and distance.
+   - Converts the time elapsed since the start of the sketch into seconds.
+   - Adds the data to a table (`dataTable`) and displays it on the Processing window.
+
+### Handling Data:
+
+- **Serial Data Format:** Ensure the data format from Arduino matches what Processing expects (`"Sensor Broken;10"` or `"Normal;20"`).
+- **Port Configuration:** Update `"/dev/ttyACM0"` in the Processing sketch to match your system’s serial port.
+
+By following these steps, you can successfully send data from an Arduino to Processing, track when the sensor is broken, and display and log this information in a table. If you encounter any specific issues or have additional requirements, let me know!
+
+
+
+
+- figure out a way to send the rpicam through 2 seperate lines
+
+
+** 2024-07-28 - Saturday
+- installed ffmpeg from source on the macbook pro
+- one as a normal installation and one in a virtual environment.
+- both installed fine with ff play.
+
+** 2024-07-28 - Sunday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-29 Mon 08:48]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:55* |      |
+|-------------------------+--------+------|
+| \_  2024-07-28 - Sunday |        | 2:55 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-29 Mon 17:20]--[2024-07-29 Mon 21:55] =>  4:35
+CLOCK: [2024-07-28 Sun 16:40]--[2024-07-28 Sun 16:57] =>  0:17
+CLOCK: [2024-07-28 Sun 12:22]--[2024-07-28 Sun 15:00] =>  2:38
+:END:
+
+
+- going to install ffmpeg on a linux pi to see if I can get the ffplay to install.
+  - maybe it's just a PI os problem??
+  - I'm still thinking about reformatting the pi and running linux on it again now that I see a pipework through this
+    - full install (via chatgpt)
+    - [[https://chatgpt.com/share/42bd338a-bb1e-4ff9-95de-14c5dd170219][chatgpt full ffmpeg install linux??????]]
+    - [[https://chatgpt.com/share/42bd338a-bb1e-4ff9-95de-14c5dd170219][i actuaklly used this one for the install]]
+    - I did a thing where I changed the prompt and changed it back and it gave me completely different results.
+      - maybe this is an idea for another time???
+- OK. I did a reisntall and I have ffplay on the linux versions of tjhe pis.
+- The big question is now do I go and re isntall the original pi4 with the camera BACk to linux AGAIN and just go with linux since I'm using the rpicam and ffmepg/ffplay from source.
+- I have the ????? I dont know what this was. something happened?
+- spend a little time on this youtube thing
+  - [[https://www.youtube.com/watch?v=nobWeGycSe8&t=85s][Artificial Images video art with ffmpeg]]
+- ok. did a little basic intro to ffmpeg with these series
+- try to send video from the pi4 to the supercollider pi5-1
+- how do I send multiple outputs of the same video feed in RPICAM-vid??????
+  - ok. I have this running. 
+
+** 2024-07-29 - Monday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-29 Mon 21:56]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *9:52* |      |
+|-------------------------+--------+------|
+| \_  2024-07-29 - Monday |        | 9:52 |
+#+END:
+
+
+
+
+:LOGBOOK:
+CLOCK: [2024-07-29 Mon 17:00]--[2024-07-29 Mon 21:00] =>  4:00
+CLOCK: [2024-07-29 Mon 14:57]--[2024-07-29 Mon 15:52] =>  0:55
+CLOCK: [2024-07-29 Mon 08:48]--[2024-07-29 Mon 13:45] =>  4:57
+:END:
+
+
+
+- today???
+- do the sensor for the morning
+  - So. I have the arduino code working. only 1 sensor atm
+  - I have 3 ultrasonic sensors in total. I could do with a 4th. I need to test one that I picked up to see if it works
+  - they both work.
+  - I still need to remove the other from the board??
+    - or do I attach the empty one to a new board?
+    - lets check out the proessing code?
+    - at some point.
+      - install arduino all all the machines.
+      - have the distance sensing script running on 3 arduinos
+      - or
+      - have the 3 sensors running on one board. with a breakout board.
+      - or
+      - maybe 3 x arduino and send the data via the network
+      - Also look at changing the network.
+	- atm I'm running from my internet into a switcher
+	- I probably want to create a network on the mango
+	- then out of that to the switcher
+	  - using the little yellow mango router all the pis have to run wireless
+	  - 
+- [[ https://github.com/d03n3rfr1tz3/HC-SR04][Dirk Sardonik HC-SR04 Ultrasonc Sensor Library]]
+- what do I want to do?
+- I want to be able to have the distance sensor trigger when movement is detected  at a certain point and at the same time  whilst the sensor is broken, pick up that amount of time and log it
+- [[https://chatgpt.com/share/b68e6ad4-83e8-4cd0-9a85-c52d1cd298a5][here is the chatgpt for this code]]
+- done
+- 
+- the sketch triggers currently at a distance of 50 cm
+- now what do I want to do?
+- now I want to be able to take that time data and pass it through to processing. ANd in processing I want to log that data in a table and start to convert it.
+  - convert it to what?
+    - the time comes in in milliseconds
+    - convert milliseconds to hours, minutes and seconds
+    - somehow then convert that into an hourly wage
+  - Also add in the other distance sensors
+- [[https://www.youtube.com/watch?v=woaR-CJEwqc&t=451s][Schiffman Tabular Data processing]]
+  - this video I think is no good as its taking data tables?????
+- [[https://vimeo.com/showcase/2573675][Intro to Processing for Data Viz]]
+- what do I want to do?
+- done for today
+- tomorrow continue on the logging the data to a file
+- [[https://chatgpt.com/share/b68e6ad4-83e8-4cd0-9a85-c52d1cd298a5][chatgpt link for the processing patch]]
+  
+- Afternoon work on the visuals side.
+- 
+- I need to think about how it's going to look??
+- there's a lot of visual wiring issues.
+  - especially if I'm wiring seperate arduinos.
+  - 
+- I think it seems that I cant send ffplay anywhere....
+  - its only a viewer so I cant actually send it anywhere or capture the output.
+- do I just have 3 seperate things that dont interact with each other???
+- can I still send the rpicam to the ffplay effect and to the pi5-1?
+- all this seems quite difficult
+- move onto making supercollider stuff for a while
+- and open frameworks.
+- maybe each is its own thing???
+- instead of being some kind of elaborate feedback loop
+- 
+
+
+
+
+** 2024-07-30 - Tuesday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-30 Tue 17:56]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *4:01* |      |
+|--------------------------+--------+------|
+| \_  2024-07-30 - Tuesday |        | 4:01 |
+#+END:
+
+
+
+:LOGBOOK:
+CLOCK: [2024-07-30 Tue 09:14]--[2024-07-30 Tue 13:15] =>  4:01
+:END:
+
+- take the morning to try a different route into the pi4 video capture
+  - take a 4 secong video loop
+  - process it in ffmpeg
+  - play it/show it
+  - loop the process
+  - so a nev video plays every 4 seconds??
+- I have a script running from a [[https://chatgpt.com/share/6983a33b-d494-44ad-9b18-6afe7eb686ea][chatgpt prompt]]
+- I have a script that films a 4 second  loop. then processes it and then plays it and then deletes the file and repeats this over and over
+- running a minterpolate and its taking ages. and I mean an age
+- I currently have a nice script running that films a 10 second loop, processes that loop with some effects and then plays that loop on the same machine, then sends that processed video out to another machine via udp
+
+
+
+** 2024-07-31 - Wednesday
+
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-07-31 Wed 17:24]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *5:54* |      |
+|----------------------------+--------+------|
+| \_  2024-07-31 - Wednesday |        | 5:54 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-07-31 Wed 16:55]--[2024-07-31 Wed 17:23] =>  0:28
+CLOCK: [2024-07-31 Wed 13:30]--[2024-07-31 Wed 15:55] =>  2:25
+CLOCK: [2024-07-31 Wed 08:39]--[2024-07-31 Wed 11:40] =>  3:01
+:END:
+
+
+
+- Yesterday I bought 2 cheap webcams for the total of £18
+- I have webcam.
+  - video 4 does work in processing for pi.
+  - using Fredrik olaffsons udk materials for this bit
+- WHAT DO I WANT TO DO?
+  - i want to
+  - i want to make an interactive video and sound piece
+    - get webcam in
+    - something with osc in processing
+    - send that osc to supercollider
+    - make a patch in Supercollider
+    - 
+- look into audotmating with crontab
+
+
+
+- chat with Patrick
+  - HOW AM I GOING TO SHOW IT?????
+
+
+
+- [[https://github.com/cansik/opencv-processing][opencv in processing git]]
+- i have a super basic proocessing patch running with some audio.
+- finish for the day. I'm super tired
+
+
+
+** 2024-08-01 - Thursday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-01 Thu 15:14]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *2:18* |      |
+|---------------------------+--------+------|
+| \_  2024-08-01 - Thursday |        | 2:18 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-01 Thu 14:02]--[2024-08-01 Thu 15:13] =>  1:11
+CLOCK: [2024-08-01 Thu 10:23]--[2024-08-01 Thu 11:30] =>  1:07
+:END:
+
+
+
+- I should write an essay
+  - [[https://www.youtube.com/watch?v=lML0ndFlBuc][a vid on why I should write essays]]
+
+- [[https://www.raspberrypi-spy.co.uk/2019/06/using-a-usb-audio-device-with-the-raspberry-pi/][hacking the usb audio device]]
+
+- made the cigar box speaker fit to the pi.
+- 
+
+
+
+
+** 2024-08-02 Friday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-02 Fri 17:47]
+| Headline              | Time   |      |
+|-----------------------+--------+------|
+| *Total time*          | *5:33* |      |
+|-----------------------+--------+------|
+| \_  2024-08-02 Friday |        | 5:33 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-02 Fri 15:35]--[2024-08-02 Fri 17:46] =>  2:11
+CLOCK: [2024-08-02 Fri 09:48]--[2024-08-02 Fri 13:10] =>  3:22
+:END:
+
+
+- how do I hardwire the ip adresses?
+- got the webcam working
+- what am I doing today?
+- get something on the rpi-3
+  - what
+  - something in openFrameworks
+  - floating spheres
+  - textures
+  - webcame taking images and storing them in a folder , process them and use as texture
+  - 
+- once I have somnething on all of the machines I can then start tweaking and refining and rinding an aesthetic.
+- I made a box
+- i have something basic running on the pi OF.
+
+
+
+* 2024-08-03 - Saturday
+
+- more work on the openframeworks patch
+- the rasberry pi operates on an openGL3.1 so I'm not sure what I can do with it regarding shaders etc....
+  - not that I know that much about anything anyway
+  - [[https://www.khronos.org/files/opengles31-quick-reference-card.pdf][openGL3.1 Reference sheet]]
+- checking the ffmpeg app runInternalVid.sh for when it starts to break up
+  - started at 
+  - the camera stopped picking up
+  - restarted at 
+  - removed the shuffle frame for now and added more threshold to the amplify
+  - set at 
+
+
+
+** 2024-08-04 - Sunday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-09 Fri 08:45]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *2:33* |      |
+|-------------------------+--------+------|
+| \_  2024-08-04 - Sunday |        | 2:33 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-04 Sun 12:27]--[2024-08-04 Sun 15:00] =>  2:33
+:END:
+
+
+
+- make the amps and speakers
+- I want to make each speaker have its own box.
+- 4 speakers
+- 4 boxes
+- 2 amps
+- maybe the 2 amps in a small box
+- then the 
+
+
+
+
+** 2024-08-07 - Wednesday
+
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-09 Fri 08:45]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *5:52* |      |
+|----------------------------+--------+------|
+| \_  2024-08-07 - Wednesday |        | 5:52 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-07 Wed 14:06]--[2024-08-07 Wed 17:07] =>  3:01
+CLOCK: [2024-08-07 Wed 09:59]--[2024-08-07 Wed 12:50] =>  2:51
+:END:
+
+
+- WORK ON THE ULTRASONIC SENSORS
+  - work on timetable v03
+  - get 3 more distancce sensors up and running.
+  - working on the arduino
+  - see about a multiple sensor sketch
+  - figure out how to get 4x sensor data into the sketch
+  - calculate the 4 sensor time data into one block of time.
+  - start to make a table of all the things i need to input
+  - OK. I have 4 input sensors running,
+  - maybe make up a schematic for the arduino
+  - 
+  - 
+- Fill out the form for the info needed for exhibition
+- this afternoon. Open frameworks
+
+
+** 2024-08-08 - Thursday
+
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-09 Fri 08:46]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *6:11* |      |
+|---------------------------+--------+------|
+| \_  2024-08-08 - Thursday |        | 6:11 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-08 Thu 16:56]--[2024-08-08 Thu 18:01] =>  1:05
+CLOCK: [2024-08-08 Thu 13:30]--[2024-08-08 Thu 16:14] =>  2:44
+CLOCK: [2024-08-08 Thu 10:02]--[2024-08-08 Thu 12:24] =>  2:22
+:END:
+
+
+- carry on with the tracking software
+  - things to do
+  - change the total cumulative duration to days, hours and mins
+  - add in money spent
+  - items bought
+  - hours tables
+  - my hours worked
+  - figure out how to calculate all this into some meaningful information
+  - 
+  - 
+  - some other things to add?
+  - total costs??
+    - my wage * total hours + total costs
+    - the same with the min wages
+    - 
+    - 
+    - then somehting about how much dwell time to calculate
+    - how much is the dwell time wrth????
+    - look into dwell time
+
+
+- this afternoon more openFrameworks
+
+
+
+give it a title
+
+
+
+** 2024-08-09 - Friday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-09 Fri 12:25]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *3:49* |      |
+|-------------------------+--------+------|
+| \_  2024-08-09 - Friday |        | 3:49 |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2024-08-09 Fri 08:35]--[2024-08-09 Fri 12:24] =>  3:49
+:END:
+
+
+- things to do today
+- look at filling in the artist statment form
+- more work on the arduino pi
+  - 
+  - 
+  - sound in on the webcam
+    
+  - 
+    - get a webcam and have a slitscan style thing for the bacground
+  - fullscreen the app
+- more work on the supercollider and processing.
+  - play more with the processing app
+- add some more steps to the pi 4 ffmpeg app
+- open frameworks.
+  - 
+  - try and get a camera taking photos every n seconds and move them into a folder.
+    
+  - use new photos as something.,
+
+  - mess with the photos
+
+
+
+** 2024-08-10 - Saturday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-15 Thu 20:37]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *3:14* |      |
+|---------------------------+--------+------|
+| \_  2024-08-10 - Saturday |        | 3:14 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-10 Sat 10:40]--[2024-08-10 Sat 13:54] =>  3:14
+:END:
+
+- today I'm actually at work but I've got a lot of sitting around to do so I'll work on some ffmpeg stuff
+- also remember your artist statment form
+
+
+
+** 2024-08-11 - Sunday
+
+
+:LOGBOOK:
+CLOCK: [2024-08-11 Sun 18:54]--[2024-08-11 Sun 19:21] =>  0:27
+CLOCK: [2024-08-11 Sun 10:20]--[2024-08-11 Sun 14:10] =>  3:50
+:END:
+
+
+- make the speakers
+- make it modular
+- I thibnk i'm someqhere
+- i have a spear set going with one amp
+- not the other one yet
+- all working
+
+
+
+** 2024-08-12 - Monday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-13 Tue 16:06]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *5:17* |      |
+|-------------------------+--------+------|
+| \_  2024-08-12 - Monday |        | 5:17 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-12 Mon 10:48]--[2024-08-12 Mon 16:05] =>  5:17
+:END:
+
+
+- SORT OUT THE AMP AND SPEAKERS
+  - heat shrink everythin
+  - make 2 more jack to jack cabkes
+  - test everything
+- MAKE IT SO I CAN SAFETLY TAKE EVERYTHING TO LONDON
+- PACK EVERYTHING
+
+
+
+** 2024-08-13 - Tuesday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-13 Tue 21:12]
+| Headline                 | Time   |      |
+|--------------------------+--------+------|
+| *Total time*             | *7:28* |      |
+|--------------------------+--------+------|
+| \_  2024-08-13 - Tuesday |        | 7:28 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-13 Tue 17:57]--[2024-08-13 Tue 20:12] =>  2:15
+CLOCK: [2024-08-13 Tue 13:30]--[2024-08-13 Tue 17:19] =>  3:49
+CLOCK: [2024-08-13 Tue 10:06]--[2024-08-13 Tue 11:30] =>  1:24
+:END:
+
+
+- got to uni for the first time
+- doing ok it seems
+- everything works
+- make some bash scripts
+- something about [[https://github.com/tmux/tmux/wiki][tmux]]
+
+
+** 2024-08-13 - Wednesday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-14 Wed 19:07]
+| Headline                   | Time   |      |
+|----------------------------+--------+------|
+| *Total time*               | *8:21* |      |
+|----------------------------+--------+------|
+| \_  2024-08-13 - Wednesday |        | 8:21 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-14 Wed 15:21]--[2024-08-14 Wed 19:06] =>  3:45
+CLOCK: [2024-08-14 Wed 12:11]--[2024-08-14 Wed 15:00] =>  2:49
+CLOCK: [2024-08-14 Wed 08:42]--[2024-08-14 Wed 10:29] =>  1:47
+:END:
+
+
+
+- bash scripts day
+- make a load of bash scripts and link them together for the pi4
+- some things to make with the rpicam app
+  - ffmpeg
+    - hue
+    - sat
+    - crop
+    - stack
+    - minterpolate
+    - rotate
+    - 
+  - tensorflow
+  - opencv
+  - 
+- artists shit
+- neoan number the price goes up
+- rachal ara
+- change.
+- do distance sensors
+
+
+** 2024-08-13 - Thursday
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-15 Thu 20:58]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *8:04* |      |
+|---------------------------+--------+------|
+| \_  2024-08-13 - Thursday |        | 8:04 |
+#+END:
+
+
+
+:LOGBOOK:
+CLOCK: [2024-08-15 Thu 12:56]--[2024-08-15 Thu 21:00] =>  8:04
+:END:
+
+
+- jesse had a nice idea of loosing value if the sensors are not in use.
+  - figure that out .
+- today, work on finishing ffmpeg scripts
+- another nice idea from Patrick on maybe stay with it and program it during the exhibition
+
+
+
+** 2024-08-16 - Friday
+
+
+
+:LOGBOOK:
+CLOCK: [2024-08-16 Fri 15:34]--[2024-08-16 Fri 18:18] =>  2:44
+CLOCK: [2024-08-16 Fri 14:44]--[2024-08-16 Fri 15:25] =>  0:41
+CLOCK: [2024-08-16 Fri 11:39]--[2024-08-16 Fri 14:01] =>  2:22
+:END:
+
+
+
+- start work on supercollider / processing movement thing
+- remember to add in a table at 35
+- a table at 20
+- and another webcam @ 17 or somthing
+-
+
+
+** 2024-08-19 - Monday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-19 Mon 18:21]
+| Headline                | Time   |      |
+|-------------------------+--------+------|
+| *Total time*            | *5:28* |      |
+|-------------------------+--------+------|
+| \_  2024-08-19 - Monday |        | 5:28 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-19 Mon 14:18]--[2024-08-19 Mon 17:21] =>  3:03
+CLOCK: [2024-08-19 Mon 11:18]--[2024-08-19 Mon 13:43] =>  2:25
+:END:
+
+- things to do today
+- lots of open frameworks
+- try and make a snapshot machine.
+  - takes an image and does something with it in openframeworks
+- Also, some kind of supercollider script
+  - maybe something that takes the audio input and then does something with it?
+  - install jack and supercollider
+  - 
+
+
+- oof. what a day
+
+
+- 
+
+
+** 2024-08-20 Tuesday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-21 Wed 11:53]
+| Headline               | Time   |      |
+|------------------------+--------+------|
+| *Total time*           | *4:48* |      |
+|------------------------+--------+------|
+| \_  2024-08-20 Tuesday |        | 4:48 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-20 Tue 13:00]--[2024-08-20 Tue 17:48] =>  4:48
+:END:
+
+
+- litereally just set up the work again
+-
+
+
+
+** 2024-08-21 - Wednesday
+
+
+
+:LOGBOOK:
+CLOCK: [2024-08-21 Wed 11:53]--[2024-08-21 Wed 20:00] =>  8:07
+:END:
+
+
+
+- things to do today.
+- sort out the coding for the acutal calculations
+  - what do I want to do.
+  - have an arbritrary number that equates to pence per hour spent on dwell time
+  - i want to add all of that up according to the accumulated dwell time
+  - i want to see if there is a profit or loss
+  - is there a way to have a loss factor. if there is no cumulative data running then the piece looses value?
+    - Thanks Chat gpt
+    - To calculate the pence per minute rate based on an hourly rate of £18, you can break it down as follows:
+
+    To calculate the pence per minute rate based on an hourly rate of £18, you can break it down as follows:
+
+    Convert £18 per hour to pence per hour:
+        £18 is equivalent to 1800 pence (£1 = 100 pence).
+
+    Convert pence per hour to pence per minute:
+        There are 60 minutes in an hour, so:
+    Pence per minute=1800 pence60 minutes=30 pence per minute
+    Pence per minute=60 minutes1800 pence​=30 pence per minute
+
+Now, you can calculate the cost based on cumulative time spent. For instance, if the cumulative time is in milliseconds, you would first convert it to minutes, and then multiply by 30 pence per minute to get the cost in pence.
+
+    
+    
+- try and tidy up other stuff
+- how am I going to manually start all of this?
+- 
+
+  
+
+
+  
+** 2024-08-22 - Thursday
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-08-22 Thu 20:08]
+| Headline                  | Time   |      |
+|---------------------------+--------+------|
+| *Total time*              | *7:57* |      |
+|---------------------------+--------+------|
+| \_  2024-08-22 - Thursday |        | 7:57 |
+#+END:
+
+
+:LOGBOOK:
+CLOCK: [2024-08-22 Thu 13:41]--[2024-08-22 Thu 19:08] =>  5:27
+CLOCK: [2024-08-22 Thu 12:50]--[2024-08-22 Thu 13:17] =>  0:27
+CLOCK: [2024-08-22 Thu 10:25]--[2024-08-22 Thu 12:28] =>  2:03
+:END:
+
+
+- what do I want to do?
+  - openframeworks pi
+  - do what?
+  - take a photo every n seconds.
+  - delete photo after every n mins
+  - load image into openframeworkd
+  - have a webcam in open frameworks
+  - blend between the two images
+  - with some effect
+  - 
+
+
+
+** 2024-08-23 - Friday
+
+
+:LOGBOOK:
+CLOCK: [2024-08-23 Fri 10:33]--[2024-08-23 Fri 11:58] =>  1:25
+:END:
+
+
+
+- finish off some stuff.
+- add in total hours
+- try to extend the distance sensors
+- 
+
+
+
+
+
+
+
+
