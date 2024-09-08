@@ -1,0 +1,5 @@
+s.boot;
+
+
+
+a = {SinOsc.ar(400, 0, 0.6)}.play

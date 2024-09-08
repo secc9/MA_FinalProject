@@ -1,0 +1,17 @@
+//spectrum graphics
+
+(
+var n = NetAddr("127.0.0.1", 9000);
+{
+	var freqs=[100,200,300,400,500,600,700,800,900,1000,1100];
+	var in = SoundIn.ar;
+	var rings=freqs.collect{|f| BPF.ar(in, f, 0.01)};
+	var trackers=rings.collect{|r| Amplitude.kr(r, 0.01, 1).lincurve(0,1,0.001,1,-4)};
+	var mix = Limiter.ar(Mix(rings)*25);
+	SendReply.kr(Impulse.kr(60), '/bands', trackers);
+	rings.dup(2);
+}.play;
+OSCdef(\bands, {|msg|
+	       n.sendMsg(\toProcessing, *msg[3..]);
+	       }, \bands);
+)

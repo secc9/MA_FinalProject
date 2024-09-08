@@ -1,0 +1,6 @@
+s.boot;
+
+(
+//tezt
+OSCdef(\flow, {|msg| msg.postln, \flow})
+)
