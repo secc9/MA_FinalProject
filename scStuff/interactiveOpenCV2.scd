@@ -1,6 +1,13 @@
 
 
 //test
+
+// taken from Fredrik Oloffson udk160428
+//https://github.com/redFrik/udk15-Surveillance_and_Analysis/tree/master/udk160428
+
+
+/*
+
 (
 OSCdef(\flow, {|msg| msg.postln}, \flow);
 )
@@ -14,6 +21,11 @@ s.waitForBoot{
 };
 )
 
+
+*/
+
+
+// use this code for opencv processing patch
 //trigger
 (
 s.waitForBoot{
